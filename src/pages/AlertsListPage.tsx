@@ -58,6 +58,9 @@ export const AlertsListPage = () => {
         isLoading={isLoading}
         isFetching={isFetching}
         isError={isError}
+        sortField={filters.sortField}
+        sortOrder={filters.sortOrder}
+        onSort={filters.setSort}
         onRetry={handleRetry}
         onResetFilters={filters.resetFilters}
         onRowClick={handleRowClick}

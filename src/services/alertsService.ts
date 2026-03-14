@@ -17,7 +17,13 @@ function delay(min: number, max: number): Promise<void> {
   return new Promise((resolve) => setTimeout(resolve, ms))
 }
 
-export async function getAlerts(query: IAlertsQuery): Promise<IAlertsResponse> {
+/**
+ * Returns a paginated, filtered, and sorted page of alerts.
+ * Applies severity/status filters, free-text search (title + description),
+ * and sorts by `createdAt` or `severity` before slicing to the requested page.
+ * Simulates ~200–600ms network latency.
+ */
+export async function getAlerts(query: Omit<IAlertsQuery, 'pageSize'> & { pageSize: number }): Promise<IAlertsResponse> {
   await delay(200, 600)
 
   let result = [...alerts]
@@ -58,11 +64,20 @@ export async function getAlerts(query: IAlertsQuery): Promise<IAlertsResponse> {
   return { data, total, page: query.page, pageSize: query.pageSize }
 }
 
+/**
+ * Returns the alert with the given ID, or `null` if it does not exist.
+ * Simulates ~200–400ms network latency.
+ */
 export async function getAlertById(id: string): Promise<IAlert | null> {
   await delay(200, 400)
   return alerts.find((a) => a.id === id) ?? null
 }
 
+/**
+ * Returns all timeline events for the given alert, sorted ascending by timestamp.
+ * Returns an empty array if no events exist for the alert.
+ * Simulates ~100–300ms network latency.
+ */
 export async function getAlertTimeline(alertId: string): Promise<ITimelineEvent[]> {
   await delay(100, 300)
   return timelineEvents

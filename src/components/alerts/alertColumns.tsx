@@ -8,6 +8,7 @@ import { formatDate } from '@/utils/dateFormat'
 export interface IColumnDef {
   key: string
   header: string
+  sortKey?: 'severity' | 'createdAt'
   headerTestId?: string
   headerClassName?: string
   renderCell: (alert: IAlert) => ReactNode
@@ -53,6 +54,7 @@ export const COLUMNS: IColumnDef[] = [
   {
     key: 'severity',
     header: 'Severity',
+    sortKey: 'severity',
     headerTestId: 'alert-col-header-severity',
     renderCell: (alert) => (
       <TableCell data-testid={`alert-cell-severity-${alert.id}`}>
@@ -83,6 +85,7 @@ export const COLUMNS: IColumnDef[] = [
   {
     key: 'createdAt',
     header: 'Created At',
+    sortKey: 'createdAt',
     headerTestId: 'alert-col-header-created-at',
     renderCell: (alert) => (
       <TableCell data-testid={`alert-cell-created-at-${alert.id}`} className="text-sm text-gray-500">

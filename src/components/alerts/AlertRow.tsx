@@ -1,4 +1,4 @@
-import { Fragment, memo } from 'react'
+import { Fragment, memo, useCallback } from 'react'
 import type { IAlert } from '@/types/alert'
 import { COLUMNS } from '@/components/alerts/alertColumns'
 
@@ -8,11 +8,11 @@ export interface IAlertRowProps {
 }
 
 export const AlertRow = memo(({ alert, onClick }: IAlertRowProps) => {
-  const handleClick = () => onClick(alert.id)
+  const handleClick = useCallback(() => onClick(alert.id), [onClick, alert.id])
 
-  const handleKeyDown = (e: React.KeyboardEvent) => {
-      if (e.key === 'Enter' || e.key === ' ') onClick(alert.id)
-    }
+  const handleKeyDown = useCallback((e: React.KeyboardEvent) => {
+    if (e.key === 'Enter' || e.key === ' ') onClick(alert.id)
+  }, [onClick, alert.id])
 
 
   return (
