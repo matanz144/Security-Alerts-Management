@@ -1,0 +1,1916 @@
+[
+  {
+    "id": "07ccdbbc-219a-418a-8b80-0fd13e02bd2c",
+    "alertId": "98792b04-3f15-47b1-bf89-4b7d3b70050c",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-01-04T05:41:09.565Z"
+  },
+  {
+    "id": "b98dbfe1-49fa-4690-90c4-451ba33816c1",
+    "alertId": "ebdc9f6b-e8ce-4223-b638-5c37a45f5e6c",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-01-17T08:27:59.820Z"
+  },
+  {
+    "id": "dd52a13e-090a-47b4-ac43-d2ccc89986e7",
+    "alertId": "48abd48f-ac22-4a58-a008-d55ea09509dd",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-01-18T08:37:18.544Z"
+  },
+  {
+    "id": "ab37f28a-e92e-4f0d-9989-964b49473a9c",
+    "alertId": "97cf68aa-7ac9-40fb-b8e2-e6f8396650f6",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-01-21T10:05:26.805Z"
+  },
+  {
+    "id": "1a9b9508-1212-42f1-8982-f08f204f4882",
+    "alertId": "1943d855-7470-4062-9b15-c3ffbe72e7f1",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-01-21T13:25:46.599Z"
+  },
+  {
+    "id": "f3c45dc7-81ab-454a-9fe6-da174e843be5",
+    "alertId": "c2aa59ab-86d8-4e1b-9bbb-d2c7ddee11cb",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-01-23T13:40:29.121Z"
+  },
+  {
+    "id": "cb024f7f-1f4e-4b1b-98d0-456ac2733163",
+    "alertId": "96b40875-0a5e-4eb5-b7a2-b0e18698b159",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-02-03T19:15:43.702Z"
+  },
+  {
+    "id": "c21d9b9c-a711-4029-b5fb-28ac47faf986",
+    "alertId": "ee9f8920-bc3f-4951-88a2-9ff69c6d9eda",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-02-14T21:39:40.261Z"
+  },
+  {
+    "id": "16b187a6-304c-4b49-a1f8-d78691e9c0a1",
+    "alertId": "a5c56529-ee0e-438c-ba5c-d8b927933e26",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-02-16T00:58:58.638Z"
+  },
+  {
+    "id": "9a0c477b-2c84-42c5-85c0-f0dfa3a62c10",
+    "alertId": "ab9aadd1-ecb0-49b0-95f9-f0229a7b3e2f",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-02-18T23:49:17.132Z"
+  },
+  {
+    "id": "1ccaa79b-3c0f-47a6-975f-103c4f7aa0ea",
+    "alertId": "91ddc449-9e45-48f8-a91d-80eb2beaec4f",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-02-26T01:09:50.509Z"
+  },
+  {
+    "id": "35415375-f19f-4a86-ac2d-f935b2e871ce",
+    "alertId": "8cef3860-2150-4854-ba0e-a6d2ad2a5559",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-02-26T02:43:46.475Z"
+  },
+  {
+    "id": "6048045b-db7e-471e-a2f6-4cf012acaa7a",
+    "alertId": "3460be64-4617-4be2-bf49-1d1a99906b14",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-03-07T14:57:50.605Z"
+  },
+  {
+    "id": "6cde6a2c-4880-4e58-a5fd-01dff7780fd6",
+    "alertId": "2e9875b3-bc3b-49d9-bc65-f9fd50329d0c",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-03-26T08:02:08.278Z"
+  },
+  {
+    "id": "ac25ba61-865d-49e0-86f7-7bff44faf40d",
+    "alertId": "c2532073-8b12-4d9f-aa33-7c9d69985223",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-04-01T04:11:06.654Z"
+  },
+  {
+    "id": "dc0e03aa-0416-4fcd-9f38-d2817682d721",
+    "alertId": "dfbea9cd-e135-4ee1-a172-e6428d2b2e9c",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-04-01T14:09:06.221Z"
+  },
+  {
+    "id": "6b495204-1ff8-47d6-b4f4-c32d4e9c5844",
+    "alertId": "b44b5099-b1e3-43d5-98eb-26533178f726",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-04-05T19:28:21.255Z"
+  },
+  {
+    "id": "360069ab-1353-42ea-9890-79f11f00184b",
+    "alertId": "bbad71bd-1bf6-4ee6-92ad-7bdfd24b147e",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-05-02T02:14:53.998Z"
+  },
+  {
+    "id": "96be62be-d18f-4ad7-b17b-bdf0ae5af2a2",
+    "alertId": "a9b16890-15e5-4929-825d-e704abb01431",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-05-10T06:00:38.317Z"
+  },
+  {
+    "id": "31222f46-645b-4718-9329-1877cb808027",
+    "alertId": "0f06e4d2-67f0-4de4-93e5-bdf7be258e07",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-05-12T04:06:08.837Z"
+  },
+  {
+    "id": "450b74c6-f475-45e6-babd-0699da874b3b",
+    "alertId": "c55418cf-4e17-47c1-898c-1c6c49193636",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-05-19T04:35:41.539Z"
+  },
+  {
+    "id": "3eebbe73-e08e-44c6-99cf-e4b99c34e5e8",
+    "alertId": "f51558f7-6585-4609-a63d-0269519b5847",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-05-20T08:28:50.683Z"
+  },
+  {
+    "id": "e8c09438-6807-4bd5-a127-a66d11e1a6bd",
+    "alertId": "0200ea5a-ebe9-4be3-ada2-5e408b417747",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-05-20T11:18:05.627Z"
+  },
+  {
+    "id": "7ffb63ed-1e47-4c6b-b871-1a0b8fd64688",
+    "alertId": "43cce5de-8e54-4e8c-b024-c18142735d36",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-05-29T15:58:20.998Z"
+  },
+  {
+    "id": "4289b796-9f1d-499b-bfa5-638080a84482",
+    "alertId": "da2480c7-b694-462e-84f9-e069520b2718",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-05-29T23:11:28.127Z"
+  },
+  {
+    "id": "c5f8c8ed-4bd1-4b74-acc4-a6cb235f0db8",
+    "alertId": "8bce3029-457d-4431-80da-6a005e2abe62",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-06-01T21:42:01.491Z"
+  },
+  {
+    "id": "e9b20cbb-7f88-4f69-8fa4-35c68471999b",
+    "alertId": "d07d210b-3165-403f-a2cd-83cabe062e3a",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-06-06T22:05:10.025Z"
+  },
+  {
+    "id": "5d57c522-0de2-4326-a5d0-fbc7e8ba8bd1",
+    "alertId": "98792b04-3f15-47b1-bf89-4b7d3b70050c",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2023-06-20T00:23:38.524Z"
+  },
+  {
+    "id": "afa94ee6-b1a4-4f52-98e2-7f3e6e45ba5a",
+    "alertId": "54c2972a-d995-438e-99cc-2e18680cd66b",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-06-30T23:35:40.852Z"
+  },
+  {
+    "id": "7a03b0e8-1fbd-4015-bee1-0c181e75b959",
+    "alertId": "43cce5de-8e54-4e8c-b024-c18142735d36",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2023-07-08T11:16:14.039Z"
+  },
+  {
+    "id": "63e59907-2311-4c58-951f-0e7daf092c80",
+    "alertId": "0b32ec2a-7e7d-4b80-89d1-ace8765cc741",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-07-10T07:09:49.173Z"
+  },
+  {
+    "id": "5ee6941c-068d-44ec-be29-5c9a03507fc1",
+    "alertId": "cb4f307f-5929-4b56-9463-b5fd86a158bf",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-07-10T18:24:11.905Z"
+  },
+  {
+    "id": "c3c3459a-629c-4e86-9ab1-e8eca7853689",
+    "alertId": "0f06e4d2-67f0-4de4-93e5-bdf7be258e07",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2023-07-17T09:09:28.804Z"
+  },
+  {
+    "id": "d952bf7e-76b2-4d91-82b0-0fcb712c1723",
+    "alertId": "8f7800e7-b775-4c58-9cd2-9a417cd19e64",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-07-20T18:39:06.078Z"
+  },
+  {
+    "id": "92c4eb90-fe0b-4f0a-988c-84a1d66879e9",
+    "alertId": "8bce3029-457d-4431-80da-6a005e2abe62",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2023-07-23T21:20:17.976Z"
+  },
+  {
+    "id": "6375d7ef-43ef-475e-9716-02172beefd54",
+    "alertId": "4e4eed22-0160-42d9-9a22-e01f32cdbd86",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-07-31T22:30:02.279Z"
+  },
+  {
+    "id": "82d86033-e039-4aa1-9e80-94db27cb4882",
+    "alertId": "41c8d947-f88d-460c-9a6a-05e88985f398",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-08-04T09:40:17.492Z"
+  },
+  {
+    "id": "d73d95c7-35e4-4398-90ee-42124dab8e9f",
+    "alertId": "e0582954-d406-4a8e-9cda-8948dc5f297e",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-08-04T18:00:02.039Z"
+  },
+  {
+    "id": "e33094ef-e213-415f-8705-a35998a67f96",
+    "alertId": "130379b8-ae18-4274-a1c7-08ae69451423",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-08-09T04:17:18.225Z"
+  },
+  {
+    "id": "50d57e4e-ccda-4ec4-9b1a-a8b61b02833e",
+    "alertId": "48abd48f-ac22-4a58-a008-d55ea09509dd",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2023-08-12T19:49:48.299Z"
+  },
+  {
+    "id": "da1a3b97-251d-460e-8a71-21e9924e2ad3",
+    "alertId": "4e4eed22-0160-42d9-9a22-e01f32cdbd86",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2023-08-15T09:10:59.669Z"
+  },
+  {
+    "id": "80672c77-6a86-4440-8f38-bb29f30619f1",
+    "alertId": "2d0f7dbd-3c78-44df-a769-340592c4c9d2",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-08-18T01:40:47.019Z"
+  },
+  {
+    "id": "664634f8-e6eb-47c1-9674-6831f44c9c42",
+    "alertId": "070565f6-f526-46b2-ab39-df26df305eaf",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-08-19T21:36:42.641Z"
+  },
+  {
+    "id": "161abb23-6a57-4a5e-9682-6ec46579280d",
+    "alertId": "a3c96a54-e76d-485c-9e60-f1a2052cf25b",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-08-22T21:36:08.354Z"
+  },
+  {
+    "id": "516baff1-3063-4fc9-ad66-3747eec033d9",
+    "alertId": "45ff21bc-2db7-4153-82d5-605da6632e84",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-09-02T23:57:59.579Z"
+  },
+  {
+    "id": "5695713e-8005-43da-b512-80312bd42719",
+    "alertId": "e3e4d9ff-26e7-419c-951e-0bdf11988556",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-09-09T18:30:10.740Z"
+  },
+  {
+    "id": "90ee7db9-e4be-45b2-9c0c-62a39a6d9f04",
+    "alertId": "93699ae5-2c46-4888-bb40-79a69ca230d6",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-09-23T11:26:55.362Z"
+  },
+  {
+    "id": "e6f2b934-02ad-496e-b336-76042e647552",
+    "alertId": "2392b453-6c3d-4935-b1dc-76f169a3ee9f",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-10-01T20:59:46.372Z"
+  },
+  {
+    "id": "40219903-c4ae-4992-968b-8b27cfe50889",
+    "alertId": "1943d855-7470-4062-9b15-c3ffbe72e7f1",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2023-10-05T17:04:36.137Z"
+  },
+  {
+    "id": "cb920180-c549-4814-adf0-b52a93f90a63",
+    "alertId": "774c533e-7ec8-4878-ba93-980d8cb4d032",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-10-11T21:34:25.673Z"
+  },
+  {
+    "id": "4bfe3cc3-e68c-4664-9e65-9a77834fd942",
+    "alertId": "a3c96a54-e76d-485c-9e60-f1a2052cf25b",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2023-10-13T07:12:02.813Z"
+  },
+  {
+    "id": "b6bcb2ea-9ee7-4a44-97ea-d0d00759c4f7",
+    "alertId": "b44b5099-b1e3-43d5-98eb-26533178f726",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2023-10-14T06:26:21.528Z"
+  },
+  {
+    "id": "fd390393-0d00-45b5-b74c-264c8417d5b2",
+    "alertId": "3f91cd9f-b183-4898-8e6c-f4ad116e2604",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-10-23T05:32:45.651Z"
+  },
+  {
+    "id": "f858ec14-3b2a-4341-b2f4-6241b0b1c431",
+    "alertId": "d22b7848-399f-48de-b1b4-b753843d1c65",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-10-26T11:10:17.790Z"
+  },
+  {
+    "id": "87157cc6-309c-4b3b-ab84-f6e8be10e529",
+    "alertId": "e218f3a8-9ee3-4d95-8e65-921ca2caed67",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-11-01T22:36:34.139Z"
+  },
+  {
+    "id": "c9f04629-9e66-4e2c-b31b-4e31a926edee",
+    "alertId": "7df5e279-ecdd-4a1a-a390-69d883a72d65",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-11-06T00:07:26.898Z"
+  },
+  {
+    "id": "8cda8b40-e9bd-498f-b997-b68734433d97",
+    "alertId": "67defaeb-5ce9-4c66-86ba-b90f705d99d4",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-11-08T07:47:56.319Z"
+  },
+  {
+    "id": "36b999d8-b902-48cb-85e6-7cecc0851c1c",
+    "alertId": "d1ee63d1-dde3-43d8-bd9c-d664a4595fab",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-11-20T11:27:12.627Z"
+  },
+  {
+    "id": "84950841-9ceb-476f-b31f-86d4f085aca1",
+    "alertId": "94f85742-1a89-47af-9b36-6e226823ccfa",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-11-21T02:49:48.863Z"
+  },
+  {
+    "id": "2378bb35-f4da-4641-bbff-8efb1629c2ef",
+    "alertId": "8569b3ee-c19c-4a5e-bf37-54e65b940dd0",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-11-21T06:38:28.257Z"
+  },
+  {
+    "id": "c6736be6-9771-4e5a-83f2-02d46726936c",
+    "alertId": "fda20b8e-a44c-49bd-9cc7-54864f61d354",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-11-29T09:59:56.637Z"
+  },
+  {
+    "id": "9e5daba0-e2a2-40e5-aa38-bb46fa85b974",
+    "alertId": "e0582954-d406-4a8e-9cda-8948dc5f297e",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2023-12-13T21:54:06.646Z"
+  },
+  {
+    "id": "baca8673-ae74-48f1-9ee5-c5cc9eadfe6d",
+    "alertId": "eb213992-66e3-4cbb-9de2-12f6e8732041",
+    "event": "Alert created and ingested.",
+    "timestamp": "2023-12-17T13:24:18.195Z"
+  },
+  {
+    "id": "b984aafe-0118-4312-82b8-7b2c510fdaab",
+    "alertId": "7de8c367-a3d8-4520-8e8b-4e6a278952c2",
+    "event": "Alert created and ingested.",
+    "timestamp": "2024-01-02T22:48:00.251Z"
+  },
+  {
+    "id": "09c46b94-599c-461d-b5bd-4fc2c5ee2a08",
+    "alertId": "7de8c367-a3d8-4520-8e8b-4e6a278952c2",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2024-01-04T13:23:32.998Z"
+  },
+  {
+    "id": "da8849d3-8531-4d61-a2e8-879eaab13e7b",
+    "alertId": "d1ee63d1-dde3-43d8-bd9c-d664a4595fab",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2024-01-06T03:49:37.916Z"
+  },
+  {
+    "id": "9c148b58-1d7a-4d3a-955a-785ec39b0803",
+    "alertId": "c2532073-8b12-4d9f-aa33-7c9d69985223",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2024-01-08T11:40:10.648Z"
+  },
+  {
+    "id": "bb7bd21f-6104-402b-9eb2-a3e06a57a53b",
+    "alertId": "c55418cf-4e17-47c1-898c-1c6c49193636",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2024-01-16T08:42:21.161Z"
+  },
+  {
+    "id": "b141d3e7-4b04-4f25-a563-3777861f3fcf",
+    "alertId": "a73f97d3-bb4a-449e-8d8b-64bedc1d5cc9",
+    "event": "Alert created and ingested.",
+    "timestamp": "2024-01-16T10:06:48.212Z"
+  },
+  {
+    "id": "6115e3d1-f4c2-4331-9141-70315a794872",
+    "alertId": "3e64a244-44d5-4c53-919b-8e387adc3418",
+    "event": "Alert created and ingested.",
+    "timestamp": "2024-01-17T18:33:37.380Z"
+  },
+  {
+    "id": "2dc183cc-b101-43f5-ae43-41212a3a8be7",
+    "alertId": "d07d210b-3165-403f-a2cd-83cabe062e3a",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2024-01-24T07:52:24.897Z"
+  },
+  {
+    "id": "82709f38-62f7-4b49-94ec-75781be80513",
+    "alertId": "41c8d947-f88d-460c-9a6a-05e88985f398",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2024-01-27T03:40:18.912Z"
+  },
+  {
+    "id": "3eee9fe4-c972-41e0-aeaf-9275742c0a1c",
+    "alertId": "8569b3ee-c19c-4a5e-bf37-54e65b940dd0",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2024-02-01T08:41:55.565Z"
+  },
+  {
+    "id": "130e9351-93b9-4dee-ad16-076e98f46c3d",
+    "alertId": "672c0ca2-c81b-49d5-b1da-556123aa3386",
+    "event": "Alert created and ingested.",
+    "timestamp": "2024-02-04T17:28:38.452Z"
+  },
+  {
+    "id": "c7b0d6ce-912f-46f3-996e-8fc8c27f4106",
+    "alertId": "45ff21bc-2db7-4153-82d5-605da6632e84",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2024-02-10T13:12:50.971Z"
+  },
+  {
+    "id": "7f583347-9866-48aa-b066-065362718c6d",
+    "alertId": "0200ea5a-ebe9-4be3-ada2-5e408b417747",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2024-02-11T18:57:52.336Z"
+  },
+  {
+    "id": "4ba8834b-c56e-4be4-827f-39e997d367ce",
+    "alertId": "ded45078-27c6-4c58-808a-91773469ce12",
+    "event": "Alert created and ingested.",
+    "timestamp": "2024-02-13T02:15:13.550Z"
+  },
+  {
+    "id": "b06997bc-c617-4f6d-b93b-f0ab7aa12691",
+    "alertId": "835be37e-f863-4a81-bca3-154c6dfa28d1",
+    "event": "Alert created and ingested.",
+    "timestamp": "2024-02-16T13:55:42.238Z"
+  },
+  {
+    "id": "39e6066a-0fad-461d-af3b-79a5891434a6",
+    "alertId": "0200ea5a-ebe9-4be3-ada2-5e408b417747",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2024-02-21T19:52:56.301Z"
+  },
+  {
+    "id": "c0dc710e-b5ec-4055-890a-b7c86a35afd4",
+    "alertId": "d22b7848-399f-48de-b1b4-b753843d1c65",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2024-03-06T19:28:06.485Z"
+  },
+  {
+    "id": "18e056fa-f97e-4816-a4a2-86afe301671b",
+    "alertId": "9a9a24e3-d810-457d-b299-4b02b8a1a7b3",
+    "event": "Alert created and ingested.",
+    "timestamp": "2024-03-08T09:51:44.843Z"
+  },
+  {
+    "id": "724ed440-e0db-48e4-98d2-0424f7dc8f62",
+    "alertId": "cdda2dcf-3ee4-43ed-a44c-be4622ee45f8",
+    "event": "Alert created and ingested.",
+    "timestamp": "2024-03-09T11:25:35.422Z"
+  },
+  {
+    "id": "164e2f9c-7c19-49b8-8bd4-3d0dae4de724",
+    "alertId": "de9946f7-5f44-4e4b-82b6-d251177c3e4b",
+    "event": "Alert created and ingested.",
+    "timestamp": "2024-03-11T07:36:37.082Z"
+  },
+  {
+    "id": "57412150-3f0c-48b5-a369-bdd31cbd0b63",
+    "alertId": "881b6b6c-7302-4152-8b99-ac6fb82cdd7b",
+    "event": "Alert created and ingested.",
+    "timestamp": "2024-03-24T18:59:24.460Z"
+  },
+  {
+    "id": "76235393-3830-466f-836e-0e9dbee6c4dc",
+    "alertId": "672c0ca2-c81b-49d5-b1da-556123aa3386",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2024-03-29T22:29:30.291Z"
+  },
+  {
+    "id": "67ff7c4f-a3b8-45ac-bfe9-caf270c9005d",
+    "alertId": "97cf68aa-7ac9-40fb-b8e2-e6f8396650f6",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2024-04-01T12:26:10.146Z"
+  },
+  {
+    "id": "0ec8ef75-03f2-4690-a67c-c8d089c9a476",
+    "alertId": "c4a3b54c-2e90-4b8f-9ffe-f533ac0bd711",
+    "event": "Alert created and ingested.",
+    "timestamp": "2024-04-05T03:50:05.005Z"
+  },
+  {
+    "id": "b58df808-10bd-4361-b058-b9eb3f5d5049",
+    "alertId": "cdda2dcf-3ee4-43ed-a44c-be4622ee45f8",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2024-04-15T06:26:56.217Z"
+  },
+  {
+    "id": "954d795b-6167-49a2-9e07-42b7b5cb3cf9",
+    "alertId": "c0738b9e-3d3f-45c1-8620-aa81aac8bf81",
+    "event": "Alert created and ingested.",
+    "timestamp": "2024-04-17T23:55:39.352Z"
+  },
+  {
+    "id": "b81d1424-859f-47ab-934c-3b0f1bf1e4d0",
+    "alertId": "0e48a8a5-fa73-40d6-a4cd-67d4936cf38f",
+    "event": "Alert created and ingested.",
+    "timestamp": "2024-04-18T01:06:22.310Z"
+  },
+  {
+    "id": "3d17ca81-d6b6-489b-91eb-7552a021d15a",
+    "alertId": "7de8c367-a3d8-4520-8e8b-4e6a278952c2",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2024-04-24T19:09:42.989Z"
+  },
+  {
+    "id": "6727d8a0-cbb0-4f7f-9965-724e9d1e3985",
+    "alertId": "8f7800e7-b775-4c58-9cd2-9a417cd19e64",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2024-05-18T17:54:24.074Z"
+  },
+  {
+    "id": "f24bb922-539a-4be2-9d7e-b2b11df21a0f",
+    "alertId": "785c62f4-502e-4bfa-aafd-96dec5c3c81d",
+    "event": "Alert created and ingested.",
+    "timestamp": "2024-05-21T02:44:39.037Z"
+  },
+  {
+    "id": "46f9c1ee-9aa6-49cf-9831-2dfd313b01a5",
+    "alertId": "c2aa59ab-86d8-4e1b-9bbb-d2c7ddee11cb",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2024-05-24T07:08:45.808Z"
+  },
+  {
+    "id": "359e0534-7656-477b-9674-47a8fda14120",
+    "alertId": "d72c6e0f-a7c8-4989-8927-0c2e028b423c",
+    "event": "Alert created and ingested.",
+    "timestamp": "2024-05-24T21:07:43.652Z"
+  },
+  {
+    "id": "a753d82b-adfa-4531-8253-5e0645b1bc45",
+    "alertId": "0b32ec2a-7e7d-4b80-89d1-ace8765cc741",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2024-05-26T00:03:22.393Z"
+  },
+  {
+    "id": "38417ba8-47b3-483f-986d-e9b3a31342f5",
+    "alertId": "8418989d-7431-4749-a1f1-1adac9a2dcad",
+    "event": "Alert created and ingested.",
+    "timestamp": "2024-05-28T22:37:59.692Z"
+  },
+  {
+    "id": "a7a20c8d-7377-4fd9-83af-5e29543c261c",
+    "alertId": "619c900b-15f9-4675-b168-0edd44641c13",
+    "event": "Alert created and ingested.",
+    "timestamp": "2024-06-03T20:15:24.009Z"
+  },
+  {
+    "id": "adbec838-2d46-44a6-9c63-58e6a07c247c",
+    "alertId": "d9ee01be-8114-4433-982e-14ffdfc93749",
+    "event": "Alert created and ingested.",
+    "timestamp": "2024-06-04T19:07:27.641Z"
+  },
+  {
+    "id": "ddf70a02-ec93-4b66-9781-8596003fd0c3",
+    "alertId": "3028ccd5-9a08-4f4d-84ce-132681c774e9",
+    "event": "Alert created and ingested.",
+    "timestamp": "2024-06-14T00:04:44.685Z"
+  },
+  {
+    "id": "53723de1-20c6-473b-9cee-fbebdc6d91a9",
+    "alertId": "ff9d6c0d-7420-498c-8876-e51ba547b0bb",
+    "event": "Alert created and ingested.",
+    "timestamp": "2024-06-15T11:02:08.743Z"
+  },
+  {
+    "id": "e9a955ad-1ac9-42a5-b946-58f3337f7780",
+    "alertId": "ebdc9f6b-e8ce-4223-b638-5c37a45f5e6c",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2024-06-20T06:15:10.371Z"
+  },
+  {
+    "id": "c2421159-4980-4d00-a063-65d0bd616efa",
+    "alertId": "8418989d-7431-4749-a1f1-1adac9a2dcad",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2024-06-23T02:31:56.915Z"
+  },
+  {
+    "id": "d34119a5-bb3b-41b4-a10d-41324316a319",
+    "alertId": "3028ccd5-9a08-4f4d-84ce-132681c774e9",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2024-06-26T16:44:10.022Z"
+  },
+  {
+    "id": "4e1c6f95-8c93-45c3-8d16-587ef0410c03",
+    "alertId": "bbad71bd-1bf6-4ee6-92ad-7bdfd24b147e",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2024-06-28T00:10:23.312Z"
+  },
+  {
+    "id": "d6ba9d46-9872-4d86-aafd-4fcb938d13e9",
+    "alertId": "d9ee01be-8114-4433-982e-14ffdfc93749",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2024-07-08T07:03:34.885Z"
+  },
+  {
+    "id": "b5b52211-1de5-474d-ba72-7da514ce55a8",
+    "alertId": "0f06e4d2-67f0-4de4-93e5-bdf7be258e07",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2024-07-09T05:00:52.425Z"
+  },
+  {
+    "id": "17d18a6c-b789-46fc-be6d-7f1f86b25484",
+    "alertId": "fda20b8e-a44c-49bd-9cc7-54864f61d354",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2024-07-10T19:29:56.916Z"
+  },
+  {
+    "id": "f972d08a-cd43-4b78-8f2c-783cc11ee042",
+    "alertId": "a230393f-266a-4ba9-9f0c-e72aa0368df7",
+    "event": "Alert created and ingested.",
+    "timestamp": "2024-07-16T20:27:54.032Z"
+  },
+  {
+    "id": "bbdab07b-4b53-4567-b925-43c0e13ceea5",
+    "alertId": "2d0f7dbd-3c78-44df-a769-340592c4c9d2",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2024-07-21T01:01:33.063Z"
+  },
+  {
+    "id": "4a1d91e7-73d9-4da0-b16c-ded94f84f6bf",
+    "alertId": "b0586970-7aa2-44de-82cc-d9cfa0e90e7e",
+    "event": "Alert created and ingested.",
+    "timestamp": "2024-07-21T19:17:55.310Z"
+  },
+  {
+    "id": "bec4022c-5f4b-4055-b3ee-59a458513c15",
+    "alertId": "cd71ce4f-74c7-41a3-95cb-69e2ae1524af",
+    "event": "Alert created and ingested.",
+    "timestamp": "2024-07-27T02:44:50.031Z"
+  },
+  {
+    "id": "e61d16fb-595b-428a-960d-623c718a3744",
+    "alertId": "a5c56529-ee0e-438c-ba5c-d8b927933e26",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2024-07-27T09:17:29.663Z"
+  },
+  {
+    "id": "690dc211-df3f-4a58-8ec0-f50e3f86cd7f",
+    "alertId": "1b05d8b9-47ae-4ccd-a5ea-189397f2c2e1",
+    "event": "Alert created and ingested.",
+    "timestamp": "2024-07-29T04:33:05.122Z"
+  },
+  {
+    "id": "fcc7227a-a92f-49fd-aa71-c76a49632978",
+    "alertId": "0e48a8a5-fa73-40d6-a4cd-67d4936cf38f",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2024-08-05T06:31:05.829Z"
+  },
+  {
+    "id": "8ddf3a28-6a9f-4d37-8839-b0599cbedc32",
+    "alertId": "b44b5099-b1e3-43d5-98eb-26533178f726",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2024-08-06T13:16:47.178Z"
+  },
+  {
+    "id": "ef050fce-72ef-4523-b955-a52cfed1adcc",
+    "alertId": "d9ee01be-8114-4433-982e-14ffdfc93749",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2024-08-16T07:35:46.094Z"
+  },
+  {
+    "id": "1edb8876-1b29-4ea8-8aff-a8490d463570",
+    "alertId": "1b05d8b9-47ae-4ccd-a5ea-189397f2c2e1",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2024-08-24T08:55:01.368Z"
+  },
+  {
+    "id": "b4631830-4bd2-447f-bcc8-1a0397d2cbcd",
+    "alertId": "43cce5de-8e54-4e8c-b024-c18142735d36",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2024-08-25T21:07:27.914Z"
+  },
+  {
+    "id": "9459e74b-5d89-42c1-9b5c-0ce837d8838e",
+    "alertId": "cd71ce4f-74c7-41a3-95cb-69e2ae1524af",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2024-08-29T14:53:42.518Z"
+  },
+  {
+    "id": "d88aa293-72fc-4d48-9a72-3003f253cbe3",
+    "alertId": "b61c9643-5143-42c6-a402-97125c5375f6",
+    "event": "Alert created and ingested.",
+    "timestamp": "2024-09-02T03:28:29.042Z"
+  },
+  {
+    "id": "39396b8b-e407-4350-81eb-9ca7204e15cd",
+    "alertId": "703790c5-1535-4ea1-8719-306f316e707e",
+    "event": "Alert created and ingested.",
+    "timestamp": "2024-09-10T03:52:44.395Z"
+  },
+  {
+    "id": "712cef6d-0230-47c0-b0bc-b24983c0d7b8",
+    "alertId": "5ac229f2-b265-4c36-92bb-dc2d0bd3bd74",
+    "event": "Alert created and ingested.",
+    "timestamp": "2024-09-11T09:37:27.289Z"
+  },
+  {
+    "id": "e119849b-229f-4976-a10f-358ac8ff36e3",
+    "alertId": "5e92500c-4c49-43ed-a912-89abad0a4439",
+    "event": "Alert created and ingested.",
+    "timestamp": "2024-09-14T16:44:11.491Z"
+  },
+  {
+    "id": "744a547c-9196-4f0c-a3d7-3c4fac8f1fb8",
+    "alertId": "76dfb13c-75e6-44bd-90e6-c9a93bc107b7",
+    "event": "Alert created and ingested.",
+    "timestamp": "2024-09-15T07:24:59.432Z"
+  },
+  {
+    "id": "34570ce5-c754-4aad-bef9-11f08e05ccdc",
+    "alertId": "774c533e-7ec8-4878-ba93-980d8cb4d032",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2024-09-15T16:29:41.609Z"
+  },
+  {
+    "id": "13abe16b-c6f5-49d5-a76c-3abbb25c91e5",
+    "alertId": "3c2a8160-8d0c-4187-814e-54870e35e416",
+    "event": "Alert created and ingested.",
+    "timestamp": "2024-09-23T23:41:16.172Z"
+  },
+  {
+    "id": "7c28cec3-544b-454f-b41a-12b56db26ab6",
+    "alertId": "da2480c7-b694-462e-84f9-e069520b2718",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2024-09-27T06:08:40.098Z"
+  },
+  {
+    "id": "a80d377e-7e44-4a35-b1d7-49112c3af787",
+    "alertId": "e218f3a8-9ee3-4d95-8e65-921ca2caed67",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2024-09-28T04:57:00.611Z"
+  },
+  {
+    "id": "9c72a03d-713c-4da5-9981-4b551c0fb508",
+    "alertId": "ff9d6c0d-7420-498c-8876-e51ba547b0bb",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2024-09-29T00:11:17.340Z"
+  },
+  {
+    "id": "8b15cbed-ae6a-4bdb-b898-10de70ae1cbc",
+    "alertId": "d72f513e-4619-42bc-b39a-491dd8e6ee34",
+    "event": "Alert created and ingested.",
+    "timestamp": "2024-10-01T17:32:21.937Z"
+  },
+  {
+    "id": "35dc547a-0d47-4a55-bca0-e26e2d68d1f3",
+    "alertId": "0fe5cdef-fd8d-417c-a0d6-f8a99ba95e9c",
+    "event": "Alert created and ingested.",
+    "timestamp": "2024-10-02T23:35:59.962Z"
+  },
+  {
+    "id": "de2c8ccf-b41b-42b1-bbc5-cb634755f00a",
+    "alertId": "98792b04-3f15-47b1-bf89-4b7d3b70050c",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2024-10-17T19:57:05.653Z"
+  },
+  {
+    "id": "7c1e4873-cf54-4de6-99e5-88e3f9625ef2",
+    "alertId": "94f85742-1a89-47af-9b36-6e226823ccfa",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2024-10-24T18:08:43.750Z"
+  },
+  {
+    "id": "4fcd6850-b521-47e4-af6d-1f2da7001e61",
+    "alertId": "329ff4fb-defe-426d-9b36-d4d9448a7bf0",
+    "event": "Alert created and ingested.",
+    "timestamp": "2024-11-01T09:20:12.786Z"
+  },
+  {
+    "id": "766d8290-3130-473f-8c0b-0064739f709b",
+    "alertId": "827f55a4-d527-41cd-8472-814aff5a43bd",
+    "event": "Alert created and ingested.",
+    "timestamp": "2024-11-01T19:54:48.302Z"
+  },
+  {
+    "id": "8126ded9-9033-45cd-a872-cb30a6989329",
+    "alertId": "93699ae5-2c46-4888-bb40-79a69ca230d6",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2024-11-04T17:33:12.152Z"
+  },
+  {
+    "id": "a477c2ba-2188-4918-93a7-1e6097470cd6",
+    "alertId": "1943d855-7470-4062-9b15-c3ffbe72e7f1",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2024-11-06T00:55:01.801Z"
+  },
+  {
+    "id": "39ed575e-0973-4070-b5ce-c3ce51f0e5e5",
+    "alertId": "97cf68aa-7ac9-40fb-b8e2-e6f8396650f6",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2024-11-10T12:00:47.646Z"
+  },
+  {
+    "id": "a3c275d6-cff3-4693-9bab-2730fdaf2ba9",
+    "alertId": "9a86b42d-9835-41f2-8d0a-4742967c058c",
+    "event": "Alert created and ingested.",
+    "timestamp": "2024-11-11T07:05:52.834Z"
+  },
+  {
+    "id": "ab042709-f78a-418e-ac00-8ac458fa02b8",
+    "alertId": "de9946f7-5f44-4e4b-82b6-d251177c3e4b",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2024-11-15T11:47:57.753Z"
+  },
+  {
+    "id": "02c2ca57-a224-4330-b578-907dcd790da1",
+    "alertId": "85abc991-6c26-44f4-ac0d-3119e26fa47f",
+    "event": "Alert created and ingested.",
+    "timestamp": "2024-11-16T23:22:58.294Z"
+  },
+  {
+    "id": "7fde3884-4055-44f7-8607-0e1645b46fb1",
+    "alertId": "0b5ac479-61ff-4bc5-a4cb-a2df5fc439d2",
+    "event": "Alert created and ingested.",
+    "timestamp": "2024-11-17T05:08:35.032Z"
+  },
+  {
+    "id": "d7f46283-97af-45dc-aaed-86ddc28f9316",
+    "alertId": "2392b453-6c3d-4935-b1dc-76f169a3ee9f",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2024-11-27T11:08:55.370Z"
+  },
+  {
+    "id": "de1968f6-9ce4-490f-b2d2-87263e4f2ad5",
+    "alertId": "b5cdd7e3-d322-40d5-a5bf-6c792ecc4eb4",
+    "event": "Alert created and ingested.",
+    "timestamp": "2024-11-28T01:02:57.170Z"
+  },
+  {
+    "id": "5a4a6cd5-da41-4fa9-ac2f-cde87b71ccc0",
+    "alertId": "5cb0bb72-866a-4283-b4f9-1878b4633ad7",
+    "event": "Alert created and ingested.",
+    "timestamp": "2024-11-29T15:13:24.799Z"
+  },
+  {
+    "id": "51a5bc70-b91e-416d-a612-6607fb555a36",
+    "alertId": "6361eb3b-a1d7-404f-8f81-aa7ae8b7704d",
+    "event": "Alert created and ingested.",
+    "timestamp": "2024-12-04T14:23:20.427Z"
+  },
+  {
+    "id": "57fd1869-2b57-4850-9aed-c1689b35145e",
+    "alertId": "d22b7848-399f-48de-b1b4-b753843d1c65",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2024-12-05T06:00:53.567Z"
+  },
+  {
+    "id": "036c4788-e754-45bf-ba20-778c09f2c8d5",
+    "alertId": "123e7a76-ab09-44ab-a1d1-a3a86b3a5a38",
+    "event": "Alert created and ingested.",
+    "timestamp": "2024-12-05T21:44:51.841Z"
+  },
+  {
+    "id": "b0823747-11af-4237-8161-b69f938eaebe",
+    "alertId": "8e1f15d7-0658-481a-8627-bda029017303",
+    "event": "Alert created and ingested.",
+    "timestamp": "2024-12-07T04:11:01.801Z"
+  },
+  {
+    "id": "822bb376-bde3-4eda-b3f3-80adde3ffeb7",
+    "alertId": "835be37e-f863-4a81-bca3-154c6dfa28d1",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2024-12-08T04:50:06.038Z"
+  },
+  {
+    "id": "fd60a846-75cb-45c7-806d-05b794376261",
+    "alertId": "67defaeb-5ce9-4c66-86ba-b90f705d99d4",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2024-12-19T20:20:53.833Z"
+  },
+  {
+    "id": "1eb71535-54c1-4929-90cb-0595bcb27354",
+    "alertId": "ec1d2b67-aa16-4458-a985-9c7eba4139f5",
+    "event": "Alert created and ingested.",
+    "timestamp": "2024-12-26T10:35:20.047Z"
+  },
+  {
+    "id": "e04f02fd-37ff-41a0-a479-4fb3ba10fa01",
+    "alertId": "d1ee63d1-dde3-43d8-bd9c-d664a4595fab",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2024-12-31T23:31:05.530Z"
+  },
+  {
+    "id": "697d2cad-8e27-4e82-a0fa-6d91004882ff",
+    "alertId": "785c62f4-502e-4bfa-aafd-96dec5c3c81d",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-01-01T04:00:03.659Z"
+  },
+  {
+    "id": "bcf1b545-121b-4dc1-ba56-ad47ca039847",
+    "alertId": "63137021-fa97-45ac-af70-e04564b341db",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-01-05T06:04:27.156Z"
+  },
+  {
+    "id": "aa67e397-cdf4-45aa-a373-f685539f689c",
+    "alertId": "2a8cd52b-f5f9-4d71-9c6e-c818a79c0d8d",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-01-05T07:10:27.105Z"
+  },
+  {
+    "id": "a7f522a7-9c26-4f1b-add9-780eb1c40e7f",
+    "alertId": "67defaeb-5ce9-4c66-86ba-b90f705d99d4",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2025-01-05T14:36:59.494Z"
+  },
+  {
+    "id": "d265a834-09a5-4f01-9826-5d5b784a044e",
+    "alertId": "79413a1d-8d48-4549-8af4-ac32c935e79d",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-01-05T22:38:09.257Z"
+  },
+  {
+    "id": "be2b9db2-6f87-4b8e-b889-bb20d3e3d0a4",
+    "alertId": "67cef259-ec61-4796-9365-b4898b860080",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-01-05T23:22:18.597Z"
+  },
+  {
+    "id": "376a175f-7ab4-4491-9752-c90ead39f132",
+    "alertId": "b5cdd7e3-d322-40d5-a5bf-6c792ecc4eb4",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-01-07T02:31:50.156Z"
+  },
+  {
+    "id": "487da403-70b2-43c0-8b43-f34805193494",
+    "alertId": "d93ee2b4-10ce-405f-80b7-28850fe4755a",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-01-07T12:39:17.458Z"
+  },
+  {
+    "id": "570c2afe-c350-4717-8aaf-27e04456b803",
+    "alertId": "67cef259-ec61-4796-9365-b4898b860080",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-01-14T04:44:54.003Z"
+  },
+  {
+    "id": "c67bf292-05e9-427e-8374-c2554591426e",
+    "alertId": "2e00f32f-e15c-44d7-a8fc-894db1aeb4f1",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-01-17T14:08:06.040Z"
+  },
+  {
+    "id": "f812c8ed-2a4e-49fd-ba42-38e0da66d31c",
+    "alertId": "9a86b42d-9835-41f2-8d0a-4742967c058c",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-01-20T18:01:59.163Z"
+  },
+  {
+    "id": "eb5c6156-cff0-417c-b2af-06b7a9f04d62",
+    "alertId": "bbd016d9-64d8-4f62-b118-b1a4f4ec0ae9",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-01-21T20:05:57.376Z"
+  },
+  {
+    "id": "f2534d84-a749-41f0-bad7-281cabb69418",
+    "alertId": "785c62f4-502e-4bfa-aafd-96dec5c3c81d",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2025-01-26T13:54:24.770Z"
+  },
+  {
+    "id": "614f72cc-2982-4d46-8556-93211df1a799",
+    "alertId": "e218f3a8-9ee3-4d95-8e65-921ca2caed67",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2025-01-26T18:38:43.020Z"
+  },
+  {
+    "id": "fa26faef-35fb-4c1a-b8ad-df2a29b9a61c",
+    "alertId": "556ba2fe-c6b1-4e28-8f7f-96b48a2d463a",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-01-27T06:30:40.817Z"
+  },
+  {
+    "id": "ba0b39a3-0374-4677-9494-28019d4a15e5",
+    "alertId": "f79107ea-48da-44d5-823d-961740ef6433",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-02-01T02:19:09.537Z"
+  },
+  {
+    "id": "087930f0-374b-45a4-9634-b4c6f24b6204",
+    "alertId": "8418989d-7431-4749-a1f1-1adac9a2dcad",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2025-02-03T12:03:41.889Z"
+  },
+  {
+    "id": "c10f4131-c179-4af9-ac6c-81be490c8e07",
+    "alertId": "70cca163-44bc-47d5-9f16-7ac407e148d2",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-02-09T01:42:52.535Z"
+  },
+  {
+    "id": "a7cbc96d-3e7d-45ee-a020-132b34426ff0",
+    "alertId": "d93ee2b4-10ce-405f-80b7-28850fe4755a",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-02-09T12:19:46.227Z"
+  },
+  {
+    "id": "1a890cb4-e730-4217-872a-c3d6d8e2ef88",
+    "alertId": "774c533e-7ec8-4878-ba93-980d8cb4d032",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2025-02-12T19:48:44.002Z"
+  },
+  {
+    "id": "6d7b8390-9f50-4c15-b858-72c65ab0f6df",
+    "alertId": "ebdc9f6b-e8ce-4223-b638-5c37a45f5e6c",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2025-02-16T02:11:26.214Z"
+  },
+  {
+    "id": "5f516bce-dcef-4a41-9b53-06fcb283b100",
+    "alertId": "123e7a76-ab09-44ab-a1d1-a3a86b3a5a38",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-02-17T14:36:00.265Z"
+  },
+  {
+    "id": "ac5d1f48-b60c-4395-9e2e-b69519708f9a",
+    "alertId": "329ff4fb-defe-426d-9b36-d4d9448a7bf0",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-02-18T08:53:38.305Z"
+  },
+  {
+    "id": "9bca471b-c570-4600-8262-9f66883e92c8",
+    "alertId": "837bbd45-3259-4744-992e-b7f7ab9bcdc7",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-02-18T22:35:44.996Z"
+  },
+  {
+    "id": "53c66249-d447-4f8a-a2fb-2a73e34d3b1b",
+    "alertId": "d93ee2b4-10ce-405f-80b7-28850fe4755a",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2025-02-22T23:08:53.167Z"
+  },
+  {
+    "id": "e794f198-93b3-4a3a-a780-ceb67d529dd1",
+    "alertId": "9a9a24e3-d810-457d-b299-4b02b8a1a7b3",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-02-26T19:35:13.709Z"
+  },
+  {
+    "id": "6e8244cf-a0e6-413d-96e1-6128b8cd46f5",
+    "alertId": "2d0f7dbd-3c78-44df-a769-340592c4c9d2",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2025-03-02T01:59:49.224Z"
+  },
+  {
+    "id": "67b86cb7-1bee-48f1-9572-d818f7bffef7",
+    "alertId": "b61c9643-5143-42c6-a402-97125c5375f6",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-03-03T02:15:06.357Z"
+  },
+  {
+    "id": "0b73569d-99fa-4eb4-a99b-23e329e02b8e",
+    "alertId": "3c2a8160-8d0c-4187-814e-54870e35e416",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-03-06T19:42:41.663Z"
+  },
+  {
+    "id": "c0f9964a-d097-41de-8a07-05212866066c",
+    "alertId": "4a7d18e1-ca2a-4adb-82b9-0820f12bfead",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-03-08T09:04:22.234Z"
+  },
+  {
+    "id": "d1fa323c-81d1-46af-8965-adbeeae5d37a",
+    "alertId": "8e1f15d7-0658-481a-8627-bda029017303",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-03-12T05:33:22.470Z"
+  },
+  {
+    "id": "e0b1c93c-4b68-46cf-897c-f3cbcef0a29b",
+    "alertId": "ebcde3ce-c1f8-4e9d-8f24-ff81cc70d50f",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-03-12T15:51:59.104Z"
+  },
+  {
+    "id": "50a8db57-7832-464b-8584-a04fc342274f",
+    "alertId": "a48a781d-c306-485e-a308-05a5521a131b",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-03-14T04:05:23.954Z"
+  },
+  {
+    "id": "10c9e988-abf0-4567-891f-dc51aaf6612f",
+    "alertId": "837bbd45-3259-4744-992e-b7f7ab9bcdc7",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-03-16T11:14:57.132Z"
+  },
+  {
+    "id": "2c51b945-e13e-4fb7-a278-1b0dd5e41957",
+    "alertId": "8a269768-a1f5-4ae5-a539-a6d5ced90efd",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-03-25T14:41:37.284Z"
+  },
+  {
+    "id": "fe6c192a-1ebe-4ca9-9230-2dc2d46cdb3e",
+    "alertId": "c2aa59ab-86d8-4e1b-9bbb-d2c7ddee11cb",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2025-03-29T19:03:45.798Z"
+  },
+  {
+    "id": "e6d8492e-a8e5-48af-85a4-b253aeb17a58",
+    "alertId": "a7abd4d5-05dc-4d97-8366-8a36ca8c1454",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-03-30T06:13:28.633Z"
+  },
+  {
+    "id": "2bd4579c-2dc9-4e35-be74-0d0119fd2b5e",
+    "alertId": "eafd6f66-36a7-4784-949f-ebfe2732887e",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-03-30T09:44:22.304Z"
+  },
+  {
+    "id": "48b21d53-4730-4013-9348-5d269947226f",
+    "alertId": "ba470e74-f27b-4411-8535-9bad088ee945",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-03-30T19:09:57.330Z"
+  },
+  {
+    "id": "507c38af-f42d-4755-a884-fbd6df3c1bbd",
+    "alertId": "cd71ce4f-74c7-41a3-95cb-69e2ae1524af",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2025-04-01T17:43:23.796Z"
+  },
+  {
+    "id": "9704808b-21b7-4037-ae9a-5c78ce9de9ef",
+    "alertId": "89a5542c-e2c9-4517-bd3e-bf4ae231961a",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-04-04T07:46:59.996Z"
+  },
+  {
+    "id": "12ccc326-dbe8-4719-9a4b-869c6d401912",
+    "alertId": "6ef06d20-ed4e-479a-a4a0-203911f1902c",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-04-04T20:29:51.626Z"
+  },
+  {
+    "id": "ae3f4894-8f14-4d86-b60a-fa212e3ec1f4",
+    "alertId": "0fe5cdef-fd8d-417c-a0d6-f8a99ba95e9c",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-04-05T16:20:02.227Z"
+  },
+  {
+    "id": "94ec86d9-e721-4e06-93c4-767cd021ac00",
+    "alertId": "41439529-db5a-4038-a044-f37fc0f3a100",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-04-07T18:25:58.499Z"
+  },
+  {
+    "id": "1997331d-078a-40ef-a4ca-6696989f1ee0",
+    "alertId": "b84e7571-9562-4fa0-8027-c16c47985d76",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-04-12T21:40:43.151Z"
+  },
+  {
+    "id": "24eb99c4-f426-4e9a-816c-22a2f0a324e6",
+    "alertId": "123e7a76-ab09-44ab-a1d1-a3a86b3a5a38",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2025-04-22T03:52:35.487Z"
+  },
+  {
+    "id": "f4331552-08fe-4b4d-9aae-d35cb6268819",
+    "alertId": "bbad71bd-1bf6-4ee6-92ad-7bdfd24b147e",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2025-04-23T22:17:16.855Z"
+  },
+  {
+    "id": "bd1bcb5a-2cfa-4586-967a-f6e0e66a4a97",
+    "alertId": "5ac229f2-b265-4c36-92bb-dc2d0bd3bd74",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-05-03T04:47:23.161Z"
+  },
+  {
+    "id": "8c40997f-bede-4bee-b3fa-7bf4db1acbcb",
+    "alertId": "0b5ac479-61ff-4bc5-a4cb-a2df5fc439d2",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-05-03T14:41:52.372Z"
+  },
+  {
+    "id": "91934544-fead-4398-8ffa-025b30903067",
+    "alertId": "6de6d226-3928-4eb1-9358-2209ca292a5e",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-05-09T20:17:26.331Z"
+  },
+  {
+    "id": "bb5554ba-8513-4392-891c-d2ae7adf7168",
+    "alertId": "70cca163-44bc-47d5-9f16-7ac407e148d2",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-05-10T10:29:29.111Z"
+  },
+  {
+    "id": "8d528309-58bb-48c5-8abc-ad5b61fed258",
+    "alertId": "8e1f15d7-0658-481a-8627-bda029017303",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2025-05-11T22:04:39.399Z"
+  },
+  {
+    "id": "bf90512b-4288-4a54-a0ba-5de1f6fd2f8b",
+    "alertId": "fbcd7f68-6c34-4d6f-bedc-4a431f5ee1eb",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-05-15T09:01:42.367Z"
+  },
+  {
+    "id": "ade4af50-c6d1-4f2c-ba4e-cd01c2212e99",
+    "alertId": "89a0b268-9e0c-43a4-bb70-d4068ef1f0ac",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-05-15T09:03:39.789Z"
+  },
+  {
+    "id": "7b8f742e-f4a0-4b46-aaa5-29f6c9e73ff5",
+    "alertId": "76dfb13c-75e6-44bd-90e6-c9a93bc107b7",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-05-15T17:39:44.220Z"
+  },
+  {
+    "id": "67877b97-1ade-49ad-9a9f-023dade490d6",
+    "alertId": "703790c5-1535-4ea1-8719-306f316e707e",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-05-16T05:31:58.079Z"
+  },
+  {
+    "id": "99aed44a-1cb3-4e28-9c9a-5f62dc3e9263",
+    "alertId": "a48a781d-c306-485e-a308-05a5521a131b",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-05-16T17:35:23.919Z"
+  },
+  {
+    "id": "82ec5a59-0c13-483d-92b6-47e4b5fa3a89",
+    "alertId": "63137021-fa97-45ac-af70-e04564b341db",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-05-17T12:11:38.118Z"
+  },
+  {
+    "id": "3bb2bb1c-63c8-4495-8177-069ca8e0a386",
+    "alertId": "59df48b0-e36b-4e55-ad22-2dae3f53b740",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-05-29T02:44:35.912Z"
+  },
+  {
+    "id": "6f0da73e-5337-4b9f-86c3-8772a735f181",
+    "alertId": "db600dd6-c7db-454b-bb80-ef4c05b563f9",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-05-29T15:18:46.422Z"
+  },
+  {
+    "id": "74908e5c-2408-4737-910d-ddd6884a85ad",
+    "alertId": "827f55a4-d527-41cd-8472-814aff5a43bd",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-05-30T23:25:20.192Z"
+  },
+  {
+    "id": "ba63e623-a44e-4806-891f-d2376ab9d284",
+    "alertId": "827f55a4-d527-41cd-8472-814aff5a43bd",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2025-06-01T00:40:11.607Z"
+  },
+  {
+    "id": "f20d287c-de0c-42bb-a6f9-32455527b597",
+    "alertId": "00d95199-c938-4066-8914-b7966d33ea1f",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-06-02T04:29:46.168Z"
+  },
+  {
+    "id": "5c7ffc67-8754-4e10-bb97-478d7f6c54bf",
+    "alertId": "db600dd6-c7db-454b-bb80-ef4c05b563f9",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-06-02T09:11:51.741Z"
+  },
+  {
+    "id": "61ffaa1c-4442-44ec-b5f6-1d5d5cd3f6a8",
+    "alertId": "703790c5-1535-4ea1-8719-306f316e707e",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2025-06-04T07:33:10.732Z"
+  },
+  {
+    "id": "6946d012-48c9-49a4-a407-b53b60b4f2f1",
+    "alertId": "2e00f32f-e15c-44d7-a8fc-894db1aeb4f1",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-06-05T15:08:37.928Z"
+  },
+  {
+    "id": "6bc81fa7-9f44-4095-9ddb-e52e45e95092",
+    "alertId": "835be37e-f863-4a81-bca3-154c6dfa28d1",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2025-06-06T11:00:06.029Z"
+  },
+  {
+    "id": "c7cb6961-e075-4b10-b62e-e9f7f3b1bf6b",
+    "alertId": "db600dd6-c7db-454b-bb80-ef4c05b563f9",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2025-06-07T15:36:33.869Z"
+  },
+  {
+    "id": "a0f2b4ed-195c-4c42-a479-9fae9c9c4c37",
+    "alertId": "4d2ae9dd-887f-4437-a348-1a81857d2cc3",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-06-13T12:25:37.136Z"
+  },
+  {
+    "id": "888190d5-3718-45d2-9a87-609b334af015",
+    "alertId": "6de6d226-3928-4eb1-9358-2209ca292a5e",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-06-16T04:43:07.180Z"
+  },
+  {
+    "id": "2bc221f6-334f-4999-bccf-29b42e801680",
+    "alertId": "fdd654c5-f493-4423-b44d-72a28e9fc2c3",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-06-24T05:32:33.148Z"
+  },
+  {
+    "id": "d0fb42db-93c0-41b9-8d28-39765c91bec2",
+    "alertId": "2a8cd52b-f5f9-4d71-9c6e-c818a79c0d8d",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-06-30T23:36:29.712Z"
+  },
+  {
+    "id": "53c3c023-629b-419e-89ac-c73ed2d054c4",
+    "alertId": "3d116545-f26d-4ee4-a76a-f45429eadf51",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-07-03T07:11:00.745Z"
+  },
+  {
+    "id": "678a287d-65fc-4bea-ad58-28bafbda3d4d",
+    "alertId": "9a86b42d-9835-41f2-8d0a-4742967c058c",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2025-07-20T22:30:35.337Z"
+  },
+  {
+    "id": "19d0757c-4d71-4ae4-9b53-d2763ef84270",
+    "alertId": "a48a781d-c306-485e-a308-05a5521a131b",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2025-07-21T20:55:31.176Z"
+  },
+  {
+    "id": "8b57ea16-634c-4fd6-b814-763ad93581e0",
+    "alertId": "67cef259-ec61-4796-9365-b4898b860080",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2025-07-30T10:36:16.440Z"
+  },
+  {
+    "id": "b14fa6c2-482e-469f-9f87-985379537e90",
+    "alertId": "a7abd4d5-05dc-4d97-8366-8a36ca8c1454",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-08-03T01:14:04.318Z"
+  },
+  {
+    "id": "a16100b4-20d9-49b4-afd0-4d13fa1de8c8",
+    "alertId": "640061c8-8659-4026-9195-20449dae8763",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-08-03T16:58:23.856Z"
+  },
+  {
+    "id": "649ccb41-2922-445c-a8b6-e33807279540",
+    "alertId": "e3cbbb9d-7b3b-44a5-a0f2-77b2f8e3b3f1",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-08-09T13:04:19.033Z"
+  },
+  {
+    "id": "41b92311-2c58-44f4-8ac7-eb8d2639ff3c",
+    "alertId": "2a8cd52b-f5f9-4d71-9c6e-c818a79c0d8d",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2025-08-12T11:47:10.312Z"
+  },
+  {
+    "id": "b0b772b1-8946-4387-8544-52e62dd86ac7",
+    "alertId": "76dfb13c-75e6-44bd-90e6-c9a93bc107b7",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2025-08-13T07:40:28.755Z"
+  },
+  {
+    "id": "b30eef8e-d3db-468c-9136-63a136fd9877",
+    "alertId": "bbd016d9-64d8-4f62-b118-b1a4f4ec0ae9",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-08-13T21:08:34.532Z"
+  },
+  {
+    "id": "f1e39bc8-cd25-4bf6-be98-f5e931ce5e3e",
+    "alertId": "ad851b35-a709-46de-b583-5ffc4ce5f3c5",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-08-13T23:50:33.916Z"
+  },
+  {
+    "id": "ae6a1c63-48bd-481c-b4e6-590ad8893fbb",
+    "alertId": "4a7d18e1-ca2a-4adb-82b9-0820f12bfead",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-08-14T01:37:16.570Z"
+  },
+  {
+    "id": "88944546-e19c-4719-8c53-0db601717477",
+    "alertId": "5e4fc15f-ab9b-4644-9fbf-45a3823a8d85",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-08-17T03:16:14.607Z"
+  },
+  {
+    "id": "fc452089-e9d6-4e74-bf4b-591c579c096b",
+    "alertId": "b84e7571-9562-4fa0-8027-c16c47985d76",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-08-17T13:04:26.596Z"
+  },
+  {
+    "id": "2fc9fa5c-17c0-4e7f-aabc-d5c9422534e3",
+    "alertId": "4d2ae9dd-887f-4437-a348-1a81857d2cc3",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-08-17T14:45:19.888Z"
+  },
+  {
+    "id": "66ab6a0a-1a14-414a-974b-c20b52c8cee7",
+    "alertId": "89a5542c-e2c9-4517-bd3e-bf4ae231961a",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-08-26T20:55:42.314Z"
+  },
+  {
+    "id": "efca15b7-d17e-4d3d-8176-98a1a6c09f7b",
+    "alertId": "fbcd7f68-6c34-4d6f-bedc-4a431f5ee1eb",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-08-28T17:01:37.762Z"
+  },
+  {
+    "id": "9ecd8309-33fc-4649-b90d-e2fb1c55ccaa",
+    "alertId": "837bbd45-3259-4744-992e-b7f7ab9bcdc7",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2025-09-02T01:28:49.740Z"
+  },
+  {
+    "id": "3749a6ea-3e86-4bfd-a13a-b094dca93bbf",
+    "alertId": "97b604e9-7db7-4468-9ae2-4c371cc38769",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-09-02T07:20:29.462Z"
+  },
+  {
+    "id": "f9a95e1e-23b6-4588-b895-da8134a4617e",
+    "alertId": "ad851b35-a709-46de-b583-5ffc4ce5f3c5",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-09-06T21:35:37.007Z"
+  },
+  {
+    "id": "aa6cc343-4274-4864-a9a6-272244baf514",
+    "alertId": "0fe5cdef-fd8d-417c-a0d6-f8a99ba95e9c",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2025-09-07T10:28:02.156Z"
+  },
+  {
+    "id": "db5a413c-08e5-4b5c-a103-2cea529b21ec",
+    "alertId": "c31b8709-a04a-4adb-95c4-ee15fc34bf8f",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-09-18T01:39:18.573Z"
+  },
+  {
+    "id": "b8e7483b-c82d-4ae5-b292-98cc007de6ea",
+    "alertId": "41439529-db5a-4038-a044-f37fc0f3a100",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-09-18T07:42:48.660Z"
+  },
+  {
+    "id": "7275c45d-aced-4abf-a36d-4e6f9013982f",
+    "alertId": "3d116545-f26d-4ee4-a76a-f45429eadf51",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-09-21T13:15:34.143Z"
+  },
+  {
+    "id": "235993ec-0bf8-46ed-b0dd-10c5ddf53640",
+    "alertId": "1308e3d2-b380-408f-b902-2d4da7926d48",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-09-25T13:21:57.313Z"
+  },
+  {
+    "id": "fec67881-cea8-409f-927b-9c4f4ab9a684",
+    "alertId": "4d16e5bc-bcf2-4ede-a292-0e5432579064",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-10-02T17:43:45.916Z"
+  },
+  {
+    "id": "3152cbca-2481-4123-ac73-2d500d65edc0",
+    "alertId": "4a7d18e1-ca2a-4adb-82b9-0820f12bfead",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2025-10-04T01:49:02.944Z"
+  },
+  {
+    "id": "f1fbabfb-dfee-4a65-98e3-47bce2001f18",
+    "alertId": "41439529-db5a-4038-a044-f37fc0f3a100",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2025-10-06T05:35:34.283Z"
+  },
+  {
+    "id": "b21b726e-496a-4650-ab3c-afe4d8dccdc2",
+    "alertId": "89a5542c-e2c9-4517-bd3e-bf4ae231961a",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2025-10-07T01:38:37.709Z"
+  },
+  {
+    "id": "f23bbac5-2cd1-410e-a0ca-4be1b416bb3b",
+    "alertId": "59df48b0-e36b-4e55-ad22-2dae3f53b740",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-10-09T20:45:08.044Z"
+  },
+  {
+    "id": "2138f7d3-fd48-4f9d-8cdd-214f4264dedb",
+    "alertId": "e3cbbb9d-7b3b-44a5-a0f2-77b2f8e3b3f1",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-10-12T10:51:53.497Z"
+  },
+  {
+    "id": "23318b9a-e983-43cf-af9f-88b33e3093b2",
+    "alertId": "00d95199-c938-4066-8914-b7966d33ea1f",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-10-12T22:55:47.162Z"
+  },
+  {
+    "id": "c01ad9ed-3ac1-4189-a0e8-9a8295457230",
+    "alertId": "1308e3d2-b380-408f-b902-2d4da7926d48",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-10-20T07:55:24.885Z"
+  },
+  {
+    "id": "8cecafd5-c2a5-4ba5-a9fc-b96003488819",
+    "alertId": "97b604e9-7db7-4468-9ae2-4c371cc38769",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-10-23T21:16:30.418Z"
+  },
+  {
+    "id": "5db99d28-e313-4655-b58e-10061f3d108e",
+    "alertId": "4d2ae9dd-887f-4437-a348-1a81857d2cc3",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2025-10-25T04:21:44.111Z"
+  },
+  {
+    "id": "01f9121e-caee-4e8f-9bbd-1d1cc5e618f9",
+    "alertId": "1a032be4-0cab-4846-b493-c968721415e1",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-11-01T15:11:04.675Z"
+  },
+  {
+    "id": "93bcd9b9-b1f2-42c1-ab8b-3bcfc7d87e3d",
+    "alertId": "c31b8709-a04a-4adb-95c4-ee15fc34bf8f",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-11-05T13:25:56.088Z"
+  },
+  {
+    "id": "e5dd352c-5880-4c23-aa17-b70f4fa0a77e",
+    "alertId": "fbcd7f68-6c34-4d6f-bedc-4a431f5ee1eb",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2025-11-14T15:59:16.689Z"
+  },
+  {
+    "id": "e7784704-8e68-4408-b4ae-5eaea0b6adc8",
+    "alertId": "fe220762-f30c-4d6a-8afe-9de8595b29ce",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-11-20T06:16:34.128Z"
+  },
+  {
+    "id": "cf56e455-6640-4775-b793-a79ada423eca",
+    "alertId": "1308e3d2-b380-408f-b902-2d4da7926d48",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2025-11-20T09:28:19.998Z"
+  },
+  {
+    "id": "5e1b2c6c-498f-45a8-ae23-29a2cc31503c",
+    "alertId": "4bba6c25-df86-4f8e-975b-5d4e3fa4f6bf",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-11-21T00:47:24.384Z"
+  },
+  {
+    "id": "9d7b4c06-5b8c-4a73-abdf-69345ada9ae6",
+    "alertId": "a7abd4d5-05dc-4d97-8366-8a36ca8c1454",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2025-11-22T00:17:06.665Z"
+  },
+  {
+    "id": "70f3292e-8a17-491a-9774-54f14f2d3c2d",
+    "alertId": "165d0ff6-760e-4771-b4b7-8ed2e2d77661",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-11-27T16:04:57.050Z"
+  },
+  {
+    "id": "40f86b3b-ed05-4cd7-9397-5b1cc33f9758",
+    "alertId": "4de187de-2d10-4595-95e4-5a18dc18a0c3",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-11-28T04:50:26.642Z"
+  },
+  {
+    "id": "f938fc0c-c1b2-49ee-b5cd-cf2fca6f2ac2",
+    "alertId": "fe220762-f30c-4d6a-8afe-9de8595b29ce",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-11-28T21:09:59.310Z"
+  },
+  {
+    "id": "126a913b-0b05-46a0-b6dd-c1c144bc889c",
+    "alertId": "7cdf6827-b0df-4998-a2eb-80e027a72df2",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-11-29T10:43:24.823Z"
+  },
+  {
+    "id": "8f69c2f3-1b87-493d-97c9-556e5a7015a4",
+    "alertId": "42ddcc5d-cba6-45ff-a807-2b7d72de4c21",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-12-01T23:51:32.740Z"
+  },
+  {
+    "id": "c8c118cc-6496-4e69-91b5-66199b811057",
+    "alertId": "3d116545-f26d-4ee4-a76a-f45429eadf51",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2025-12-04T13:43:30.782Z"
+  },
+  {
+    "id": "f60b1148-ad23-47df-a05d-44054d598d5c",
+    "alertId": "165d0ff6-760e-4771-b4b7-8ed2e2d77661",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-12-04T22:15:59.157Z"
+  },
+  {
+    "id": "cc849823-8fef-4fab-80b4-916d2c200a55",
+    "alertId": "59df48b0-e36b-4e55-ad22-2dae3f53b740",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2025-12-06T09:58:37.524Z"
+  },
+  {
+    "id": "a1f5f345-7cc0-4e5c-a59b-a259a16c85c8",
+    "alertId": "728f523f-d992-40c6-8cc6-f3da751d9b29",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-12-07T01:11:46.046Z"
+  },
+  {
+    "id": "4eb72c2b-eafd-4e15-bc21-322581ea8f1d",
+    "alertId": "4bba6c25-df86-4f8e-975b-5d4e3fa4f6bf",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-12-09T04:44:54.882Z"
+  },
+  {
+    "id": "1ae98a03-d3ed-4adc-a619-399e7fbb93d0",
+    "alertId": "b2da0b0e-706d-4e94-ba24-6a6e163a3e13",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-12-12T02:22:25.604Z"
+  },
+  {
+    "id": "ed1c9636-ad97-4c41-b383-5a718cd8c986",
+    "alertId": "9d4eb87f-ab8b-4d12-afd0-9bd20820bd7a",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-12-14T07:52:50.928Z"
+  },
+  {
+    "id": "b92ee18e-e1c2-4028-8c52-c1d8eeef3d30",
+    "alertId": "1a032be4-0cab-4846-b493-c968721415e1",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-12-18T05:06:38.372Z"
+  },
+  {
+    "id": "d5ffa145-b967-4cef-a7ba-1c73470ec29d",
+    "alertId": "04b0ec51-539a-4f46-926f-3cfb87d725dd",
+    "event": "Alert created and ingested.",
+    "timestamp": "2025-12-20T16:57:30.407Z"
+  },
+  {
+    "id": "00a92ab1-4eff-429c-8933-39f799ab857f",
+    "alertId": "7cdf6827-b0df-4998-a2eb-80e027a72df2",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-12-23T01:24:51.331Z"
+  },
+  {
+    "id": "da0275e4-f916-4629-afc6-6e29bc29748b",
+    "alertId": "b2da0b0e-706d-4e94-ba24-6a6e163a3e13",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-12-28T23:04:23.822Z"
+  },
+  {
+    "id": "83d6656c-170d-468d-8e33-f11b65f067aa",
+    "alertId": "4de187de-2d10-4595-95e4-5a18dc18a0c3",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2025-12-29T05:54:02.516Z"
+  },
+  {
+    "id": "8df736bc-0090-4000-a176-2eeeb6db237e",
+    "alertId": "9d4eb87f-ab8b-4d12-afd0-9bd20820bd7a",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2026-01-01T08:56:22.250Z"
+  },
+  {
+    "id": "88eac96d-a110-4f20-ab56-8b5baf8cf122",
+    "alertId": "e1c0a3f7-8163-4968-9a6d-c956cd9b4f74",
+    "event": "Alert created and ingested.",
+    "timestamp": "2026-01-01T23:41:14.146Z"
+  },
+  {
+    "id": "e409b47b-ac62-49e3-81a7-b365bb64f109",
+    "alertId": "e1c0a3f7-8163-4968-9a6d-c956cd9b4f74",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2026-01-02T20:36:06.663Z"
+  },
+  {
+    "id": "2c8f5cf5-378a-4e2e-8a90-c637ba2e428b",
+    "alertId": "728f523f-d992-40c6-8cc6-f3da751d9b29",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2026-01-04T10:29:07.636Z"
+  },
+  {
+    "id": "1219e670-4ff0-43e2-a7a5-142373a08d3e",
+    "alertId": "06bf369d-312c-4d77-bb33-7e01188f0a97",
+    "event": "Alert created and ingested.",
+    "timestamp": "2026-01-08T05:11:51.729Z"
+  },
+  {
+    "id": "a0d2d656-3b8a-4f32-8845-dc38abc10436",
+    "alertId": "4531ed88-1b81-40b6-b557-3e5e1b55a2ef",
+    "event": "Alert created and ingested.",
+    "timestamp": "2026-01-09T10:53:19.767Z"
+  },
+  {
+    "id": "94b4ef62-ccab-4d66-ac70-f052f4d77b24",
+    "alertId": "06bf369d-312c-4d77-bb33-7e01188f0a97",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2026-01-10T06:04:03.029Z"
+  },
+  {
+    "id": "fa0bcbec-1ee4-4268-a5f3-2214f1c7a3a8",
+    "alertId": "fa1b35de-ad92-47c0-89bc-38d30147f864",
+    "event": "Alert created and ingested.",
+    "timestamp": "2026-01-11T16:44:37.550Z"
+  },
+  {
+    "id": "541908a7-8cdc-495a-b0b7-289cba73fe2c",
+    "alertId": "e1c0a3f7-8163-4968-9a6d-c956cd9b4f74",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2026-01-11T19:20:53.537Z"
+  },
+  {
+    "id": "3d125e7c-edd2-45db-abb8-aac9f3a0141c",
+    "alertId": "171cf632-8f29-4c47-b40a-e479a7aac4fa",
+    "event": "Alert created and ingested.",
+    "timestamp": "2026-01-11T20:27:18.826Z"
+  },
+  {
+    "id": "f3c54fbc-0e72-4e60-957e-c576e24c8c28",
+    "alertId": "5fbcd49f-67bd-43a6-9ac8-ea81caf62b0c",
+    "event": "Alert created and ingested.",
+    "timestamp": "2026-01-17T11:06:55.818Z"
+  },
+  {
+    "id": "93524362-c457-4614-8dc7-166af1ae8c0b",
+    "alertId": "7cdf6827-b0df-4998-a2eb-80e027a72df2",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2026-01-19T19:45:18.632Z"
+  },
+  {
+    "id": "a6e11a82-a49a-478c-acf3-1e5c06a4179c",
+    "alertId": "728f523f-d992-40c6-8cc6-f3da751d9b29",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2026-01-22T09:15:58.079Z"
+  },
+  {
+    "id": "121d9159-28bb-4af3-a592-83dec3674118",
+    "alertId": "36b947db-358d-40bc-a0ed-4fc8fe12f628",
+    "event": "Alert created and ingested.",
+    "timestamp": "2026-01-23T09:29:41.750Z"
+  },
+  {
+    "id": "0b1cf718-13ed-4f85-82f3-7aed56a5f2a4",
+    "alertId": "171cf632-8f29-4c47-b40a-e479a7aac4fa",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2026-01-25T05:10:06.976Z"
+  },
+  {
+    "id": "386995f1-186b-4896-b66f-fc92a5844f17",
+    "alertId": "5fbcd49f-67bd-43a6-9ac8-ea81caf62b0c",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2026-01-25T21:41:24.486Z"
+  },
+  {
+    "id": "78cc5cfb-cbcb-4412-bddc-63ba2e84d115",
+    "alertId": "4de187de-2d10-4595-95e4-5a18dc18a0c3",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2026-01-27T09:38:20.594Z"
+  },
+  {
+    "id": "f1038dc4-9836-4375-a40a-c9f17961e8b2",
+    "alertId": "4531ed88-1b81-40b6-b557-3e5e1b55a2ef",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2026-01-30T08:59:26.953Z"
+  },
+  {
+    "id": "a882c9c2-72ab-4641-ad8c-4387049c845d",
+    "alertId": "fa1b35de-ad92-47c0-89bc-38d30147f864",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2026-02-02T09:17:36.642Z"
+  },
+  {
+    "id": "a3dfee55-7e36-4e42-9c02-fe6dee3fda1e",
+    "alertId": "06bf369d-312c-4d77-bb33-7e01188f0a97",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2026-02-02T20:47:05.587Z"
+  },
+  {
+    "id": "118c8edb-7d98-4897-abad-3943ede4db93",
+    "alertId": "b2da0b0e-706d-4e94-ba24-6a6e163a3e13",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2026-02-02T21:08:20.832Z"
+  },
+  {
+    "id": "16a61ff9-edbe-4d2b-b1d7-79531cf45c5f",
+    "alertId": "171cf632-8f29-4c47-b40a-e479a7aac4fa",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2026-02-05T09:42:09.703Z"
+  },
+  {
+    "id": "1bcaf1bf-512a-4549-9384-792753b991c9",
+    "alertId": "4531ed88-1b81-40b6-b557-3e5e1b55a2ef",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2026-02-07T04:28:59.028Z"
+  },
+  {
+    "id": "a55c8bea-0e77-47ca-bc4f-ea2fb97846fd",
+    "alertId": "0f370582-e2e5-4d49-8c40-97738bb81f2e",
+    "event": "Alert created and ingested.",
+    "timestamp": "2026-02-08T09:06:04.040Z"
+  },
+  {
+    "id": "e2ce8876-4eb3-4c8d-a6e9-58820db5b755",
+    "alertId": "5fbcd49f-67bd-43a6-9ac8-ea81caf62b0c",
+    "event": "Status changed to \"resolved\". Root cause identified as a misconfiguration.",
+    "timestamp": "2026-02-08T11:31:19.005Z"
+  },
+  {
+    "id": "d291f46b-a6c4-4636-8776-fa6d82086d55",
+    "alertId": "2e71d9c1-e8fd-4d51-891b-5daf70ccf01f",
+    "event": "Alert created and ingested.",
+    "timestamp": "2026-02-09T04:42:40.974Z"
+  },
+  {
+    "id": "14565c65-4304-4435-8f55-7b2b1fae157c",
+    "alertId": "d6e16c91-5837-4f05-99d9-dd5c9b60063f",
+    "event": "Alert created and ingested.",
+    "timestamp": "2026-02-13T17:18:56.661Z"
+  },
+  {
+    "id": "ecfe18da-7ed0-40a6-9846-15ef09a0348b",
+    "alertId": "46d05fbc-3aaa-4240-8d4d-c618d82f0ea1",
+    "event": "Alert created and ingested.",
+    "timestamp": "2026-02-14T13:58:56.118Z"
+  },
+  {
+    "id": "c3cb5655-50f7-4f90-b5a6-34cb8b283851",
+    "alertId": "bee5d9ba-e101-49cd-880d-fc7cb9471ecc",
+    "event": "Alert created and ingested.",
+    "timestamp": "2026-02-19T04:07:50.291Z"
+  },
+  {
+    "id": "9800555c-07b8-4ab8-bcf5-9ab8e6b4c84c",
+    "alertId": "46d05fbc-3aaa-4240-8d4d-c618d82f0ea1",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2026-02-23T13:26:16.776Z"
+  },
+  {
+    "id": "4fcfc014-692c-43b4-a9aa-3313dbb2210e",
+    "alertId": "15b019be-bb33-4121-bc99-5487a67935ba",
+    "event": "Alert created and ingested.",
+    "timestamp": "2026-02-28T17:51:58.206Z"
+  },
+  {
+    "id": "913aa087-334a-47bd-bc20-8c028d00d2a8",
+    "alertId": "bee5d9ba-e101-49cd-880d-fc7cb9471ecc",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2026-03-01T05:30:47.634Z"
+  },
+  {
+    "id": "7c57d8b0-1d48-4fcc-b878-43a5103b5f3f",
+    "alertId": "3160b429-bf19-4250-b4a6-cabc35f89fbb",
+    "event": "Alert created and ingested.",
+    "timestamp": "2026-03-02T11:34:47.256Z"
+  },
+  {
+    "id": "7719b158-fe9c-4c4e-84e2-2c5525126c78",
+    "alertId": "3160b429-bf19-4250-b4a6-cabc35f89fbb",
+    "event": "Status changed to \"investigating\". Analyst J. Doe assigned.",
+    "timestamp": "2026-03-04T23:32:57.007Z"
+  }
+]

@@ -1,0 +1,1442 @@
+[
+  {
+    "id": "3160b429-bf19-4250-b4a6-cabc35f89fbb",
+    "title": "Multiple Failed Authentication Attempts for s.williams",
+    "severity": "critical",
+    "status": "investigating",
+    "createdAt": "2026-03-02T11:34:47.256Z",
+    "source": "Network",
+    "description": "This is a generated alert for \"Multiple Failed Authentication Attempts for s.williams\". The system detected this event and requires investigation. The severity is critical and the current status is investigating."
+  },
+  {
+    "id": "15b019be-bb33-4121-bc99-5487a67935ba",
+    "title": "Suspicious Outbound Connection from 10.0.5.23",
+    "severity": "high",
+    "status": "open",
+    "createdAt": "2026-02-28T17:51:58.206Z",
+    "source": "EDR",
+    "description": "This is a generated alert for \"Suspicious Outbound Connection from 10.0.5.23\". The system detected this event and requires investigation. The severity is high and the current status is open."
+  },
+  {
+    "id": "bee5d9ba-e101-49cd-880d-fc7cb9471ecc",
+    "title": "Unusual Login Activity Detected on Server AUTH-SRV-EU",
+    "severity": "medium",
+    "status": "investigating",
+    "createdAt": "2026-02-19T04:07:50.291Z",
+    "source": "SIEM",
+    "description": "This is a generated alert for \"Unusual Login Activity Detected on Server AUTH-SRV-EU\". The system detected this event and requires investigation. The severity is medium and the current status is investigating."
+  },
+  {
+    "id": "46d05fbc-3aaa-4240-8d4d-c618d82f0ea1",
+    "title": "High CPU Usage Anomaly on Order Processor",
+    "severity": "critical",
+    "status": "investigating",
+    "createdAt": "2026-02-14T13:58:56.118Z",
+    "source": "SIEM",
+    "description": "This is a generated alert for \"High CPU Usage Anomaly on Order Processor\". The system detected this event and requires investigation. The severity is critical and the current status is investigating."
+  },
+  {
+    "id": "d6e16c91-5837-4f05-99d9-dd5c9b60063f",
+    "title": "Potential Malware Infection on j.doe Workstation",
+    "severity": "low",
+    "status": "open",
+    "createdAt": "2026-02-13T17:18:56.661Z",
+    "source": "Network",
+    "description": "This is a generated alert for \"Potential Malware Infection on j.doe Workstation\". The system detected this event and requires investigation. The severity is low and the current status is open."
+  },
+  {
+    "id": "2e71d9c1-e8fd-4d51-891b-5daf70ccf01f",
+    "title": "Anomalous API Gateway Traffic from 10.0.5.23",
+    "severity": "medium",
+    "status": "open",
+    "createdAt": "2026-02-09T04:42:40.974Z",
+    "source": "SIEM",
+    "description": "This is a generated alert for \"Anomalous API Gateway Traffic from 10.0.5.23\". The system detected this event and requires investigation. The severity is medium and the current status is open."
+  },
+  {
+    "id": "0f370582-e2e5-4d49-8c40-97738bb81f2e",
+    "title": "Phishing Email Reported by m.jones",
+    "severity": "low",
+    "status": "open",
+    "createdAt": "2026-02-08T09:06:04.040Z",
+    "source": "Network",
+    "description": "This is a generated alert for \"Phishing Email Reported by m.jones\". The system detected this event and requires investigation. The severity is low and the current status is open."
+  },
+  {
+    "id": "36b947db-358d-40bc-a0ed-4fc8fe12f628",
+    "title": "Phishing Email Reported by j.doe",
+    "severity": "low",
+    "status": "open",
+    "createdAt": "2026-01-23T09:29:41.750Z",
+    "source": "Network",
+    "description": "This is a generated alert for \"Phishing Email Reported by j.doe\". The system detected this event and requires investigation. The severity is low and the current status is open."
+  },
+  {
+    "id": "5fbcd49f-67bd-43a6-9ac8-ea81caf62b0c",
+    "title": "Suspicious Outbound Connection from 192.168.1.101",
+    "severity": "critical",
+    "status": "resolved",
+    "createdAt": "2026-01-17T11:06:55.818Z",
+    "source": "Cloud",
+    "description": "This is a generated alert for \"Suspicious Outbound Connection from 192.168.1.101\". The system detected this event and requires investigation. The severity is critical and the current status is resolved."
+  },
+  {
+    "id": "171cf632-8f29-4c47-b40a-e479a7aac4fa",
+    "title": "Data Exfiltration Attempt Detected from Order Processor",
+    "severity": "medium",
+    "status": "resolved",
+    "createdAt": "2026-01-11T20:27:18.826Z",
+    "source": "EDR",
+    "description": "This is a generated alert for \"Data Exfiltration Attempt Detected from Order Processor\". The system detected this event and requires investigation. The severity is medium and the current status is resolved."
+  },
+  {
+    "id": "fa1b35de-ad92-47c0-89bc-38d30147f864",
+    "title": "Suspicious Outbound Connection from 10.0.5.23",
+    "severity": "critical",
+    "status": "investigating",
+    "createdAt": "2026-01-11T16:44:37.550Z",
+    "source": "EDR",
+    "description": "This is a generated alert for \"Suspicious Outbound Connection from 10.0.5.23\". The system detected this event and requires investigation. The severity is critical and the current status is investigating."
+  },
+  {
+    "id": "4531ed88-1b81-40b6-b557-3e5e1b55a2ef",
+    "title": "Data Exfiltration Attempt Detected from Billing API",
+    "severity": "medium",
+    "status": "resolved",
+    "createdAt": "2026-01-09T10:53:19.767Z",
+    "source": "Cloud",
+    "description": "This is a generated alert for \"Data Exfiltration Attempt Detected from Billing API\". The system detected this event and requires investigation. The severity is medium and the current status is resolved."
+  },
+  {
+    "id": "06bf369d-312c-4d77-bb33-7e01188f0a97",
+    "title": "Anomalous API Gateway Traffic from 192.168.1.101",
+    "severity": "high",
+    "status": "resolved",
+    "createdAt": "2026-01-08T05:11:51.729Z",
+    "source": "Endpoint",
+    "description": "This is a generated alert for \"Anomalous API Gateway Traffic from 192.168.1.101\". The system detected this event and requires investigation. The severity is high and the current status is resolved."
+  },
+  {
+    "id": "e1c0a3f7-8163-4968-9a6d-c956cd9b4f74",
+    "title": "Suspicious Outbound Connection from 10.0.5.23",
+    "severity": "low",
+    "status": "resolved",
+    "createdAt": "2026-01-01T23:41:14.146Z",
+    "source": "Endpoint",
+    "description": "This is a generated alert for \"Suspicious Outbound Connection from 10.0.5.23\". The system detected this event and requires investigation. The severity is low and the current status is resolved."
+  },
+  {
+    "id": "04b0ec51-539a-4f46-926f-3cfb87d725dd",
+    "title": "Unusual Login Activity Detected on Server DB-PROD-01",
+    "severity": "medium",
+    "status": "open",
+    "createdAt": "2025-12-20T16:57:30.407Z",
+    "source": "Endpoint",
+    "description": "This is a generated alert for \"Unusual Login Activity Detected on Server DB-PROD-01\". The system detected this event and requires investigation. The severity is medium and the current status is open."
+  },
+  {
+    "id": "9d4eb87f-ab8b-4d12-afd0-9bd20820bd7a",
+    "title": "Unusual Login Activity Detected on Server DB-PROD-01",
+    "severity": "medium",
+    "status": "investigating",
+    "createdAt": "2025-12-14T07:52:50.928Z",
+    "source": "Network",
+    "description": "This is a generated alert for \"Unusual Login Activity Detected on Server DB-PROD-01\". The system detected this event and requires investigation. The severity is medium and the current status is investigating."
+  },
+  {
+    "id": "b2da0b0e-706d-4e94-ba24-6a6e163a3e13",
+    "title": "Phishing Email Reported by s.williams",
+    "severity": "high",
+    "status": "resolved",
+    "createdAt": "2025-12-12T02:22:25.604Z",
+    "source": "Cloud",
+    "description": "This is a generated alert for \"Phishing Email Reported by s.williams\". The system detected this event and requires investigation. The severity is high and the current status is resolved."
+  },
+  {
+    "id": "728f523f-d992-40c6-8cc6-f3da751d9b29",
+    "title": "Unusual Login Activity Detected on Server WEB-APP-03",
+    "severity": "medium",
+    "status": "resolved",
+    "createdAt": "2025-12-07T01:11:46.046Z",
+    "source": "SIEM",
+    "description": "This is a generated alert for \"Unusual Login Activity Detected on Server WEB-APP-03\". The system detected this event and requires investigation. The severity is medium and the current status is resolved."
+  },
+  {
+    "id": "42ddcc5d-cba6-45ff-a807-2b7d72de4c21",
+    "title": "Multiple Failed Authentication Attempts for a.smith",
+    "severity": "high",
+    "status": "open",
+    "createdAt": "2025-12-01T23:51:32.740Z",
+    "source": "Endpoint",
+    "description": "This is a generated alert for \"Multiple Failed Authentication Attempts for a.smith\". The system detected this event and requires investigation. The severity is high and the current status is open."
+  },
+  {
+    "id": "7cdf6827-b0df-4998-a2eb-80e027a72df2",
+    "title": "Ransomware Signature Detected on File Server",
+    "severity": "low",
+    "status": "resolved",
+    "createdAt": "2025-11-29T10:43:24.823Z",
+    "source": "Cloud",
+    "description": "This is a generated alert for \"Ransomware Signature Detected on File Server\". The system detected this event and requires investigation. The severity is low and the current status is resolved."
+  },
+  {
+    "id": "4de187de-2d10-4595-95e4-5a18dc18a0c3",
+    "title": "Unusual Login Activity Detected on Server AUTH-SRV-EU",
+    "severity": "high",
+    "status": "resolved",
+    "createdAt": "2025-11-28T04:50:26.642Z",
+    "source": "Cloud",
+    "description": "This is a generated alert for \"Unusual Login Activity Detected on Server AUTH-SRV-EU\". The system detected this event and requires investigation. The severity is high and the current status is resolved."
+  },
+  {
+    "id": "165d0ff6-760e-4771-b4b7-8ed2e2d77661",
+    "title": "Anomalous API Gateway Traffic from 10.0.5.23",
+    "severity": "low",
+    "status": "investigating",
+    "createdAt": "2025-11-27T16:04:57.050Z",
+    "source": "Network",
+    "description": "This is a generated alert for \"Anomalous API Gateway Traffic from 10.0.5.23\". The system detected this event and requires investigation. The severity is low and the current status is investigating."
+  },
+  {
+    "id": "4bba6c25-df86-4f8e-975b-5d4e3fa4f6bf",
+    "title": "Multiple Failed Authentication Attempts for a.smith",
+    "severity": "critical",
+    "status": "investigating",
+    "createdAt": "2025-11-21T00:47:24.384Z",
+    "source": "SIEM",
+    "description": "This is a generated alert for \"Multiple Failed Authentication Attempts for a.smith\". The system detected this event and requires investigation. The severity is critical and the current status is investigating."
+  },
+  {
+    "id": "fe220762-f30c-4d6a-8afe-9de8595b29ce",
+    "title": "Unusual Login Activity Detected on Server WEB-APP-03",
+    "severity": "critical",
+    "status": "investigating",
+    "createdAt": "2025-11-20T06:16:34.128Z",
+    "source": "EDR",
+    "description": "This is a generated alert for \"Unusual Login Activity Detected on Server WEB-APP-03\". The system detected this event and requires investigation. The severity is critical and the current status is investigating."
+  },
+  {
+    "id": "1a032be4-0cab-4846-b493-c968721415e1",
+    "title": "Multiple Failed Authentication Attempts for a.smith",
+    "severity": "high",
+    "status": "investigating",
+    "createdAt": "2025-11-01T15:11:04.675Z",
+    "source": "Network",
+    "description": "This is a generated alert for \"Multiple Failed Authentication Attempts for a.smith\". The system detected this event and requires investigation. The severity is high and the current status is investigating."
+  },
+  {
+    "id": "4d16e5bc-bcf2-4ede-a292-0e5432579064",
+    "title": "Phishing Email Reported by j.doe",
+    "severity": "critical",
+    "status": "open",
+    "createdAt": "2025-10-02T17:43:45.916Z",
+    "source": "Network",
+    "description": "This is a generated alert for \"Phishing Email Reported by j.doe\". The system detected this event and requires investigation. The severity is critical and the current status is open."
+  },
+  {
+    "id": "1308e3d2-b380-408f-b902-2d4da7926d48",
+    "title": "Ransomware Signature Detected on File Server",
+    "severity": "high",
+    "status": "resolved",
+    "createdAt": "2025-09-25T13:21:57.313Z",
+    "source": "EDR",
+    "description": "This is a generated alert for \"Ransomware Signature Detected on File Server\". The system detected this event and requires investigation. The severity is high and the current status is resolved."
+  },
+  {
+    "id": "c31b8709-a04a-4adb-95c4-ee15fc34bf8f",
+    "title": "High CPU Usage Anomaly on User Service",
+    "severity": "high",
+    "status": "investigating",
+    "createdAt": "2025-09-18T01:39:18.573Z",
+    "source": "EDR",
+    "description": "This is a generated alert for \"High CPU Usage Anomaly on User Service\". The system detected this event and requires investigation. The severity is high and the current status is investigating."
+  },
+  {
+    "id": "97b604e9-7db7-4468-9ae2-4c371cc38769",
+    "title": "Ransomware Signature Detected on File Server",
+    "severity": "critical",
+    "status": "investigating",
+    "createdAt": "2025-09-02T07:20:29.462Z",
+    "source": "SIEM",
+    "description": "This is a generated alert for \"Ransomware Signature Detected on File Server\". The system detected this event and requires investigation. The severity is critical and the current status is investigating."
+  },
+  {
+    "id": "5e4fc15f-ab9b-4644-9fbf-45a3823a8d85",
+    "title": "Potential Malware Infection on a.smith Workstation",
+    "severity": "medium",
+    "status": "open",
+    "createdAt": "2025-08-17T03:16:14.607Z",
+    "source": "Network",
+    "description": "This is a generated alert for \"Potential Malware Infection on a.smith Workstation\". The system detected this event and requires investigation. The severity is medium and the current status is open."
+  },
+  {
+    "id": "ad851b35-a709-46de-b583-5ffc4ce5f3c5",
+    "title": "Data Exfiltration Attempt Detected from User Service",
+    "severity": "high",
+    "status": "investigating",
+    "createdAt": "2025-08-13T23:50:33.916Z",
+    "source": "Network",
+    "description": "This is a generated alert for \"Data Exfiltration Attempt Detected from User Service\". The system detected this event and requires investigation. The severity is high and the current status is investigating."
+  },
+  {
+    "id": "e3cbbb9d-7b3b-44a5-a0f2-77b2f8e3b3f1",
+    "title": "Multiple Failed Authentication Attempts for m.jones",
+    "severity": "low",
+    "status": "investigating",
+    "createdAt": "2025-08-09T13:04:19.033Z",
+    "source": "EDR",
+    "description": "This is a generated alert for \"Multiple Failed Authentication Attempts for m.jones\". The system detected this event and requires investigation. The severity is low and the current status is investigating."
+  },
+  {
+    "id": "640061c8-8659-4026-9195-20449dae8763",
+    "title": "Unusual Login Activity Detected on Server AUTH-SRV-EU",
+    "severity": "critical",
+    "status": "open",
+    "createdAt": "2025-08-03T16:58:23.856Z",
+    "source": "Cloud",
+    "description": "This is a generated alert for \"Unusual Login Activity Detected on Server AUTH-SRV-EU\". The system detected this event and requires investigation. The severity is critical and the current status is open."
+  },
+  {
+    "id": "3d116545-f26d-4ee4-a76a-f45429eadf51",
+    "title": "Potential Malware Infection on j.doe Workstation",
+    "severity": "critical",
+    "status": "resolved",
+    "createdAt": "2025-07-03T07:11:00.745Z",
+    "source": "Network",
+    "description": "This is a generated alert for \"Potential Malware Infection on j.doe Workstation\". The system detected this event and requires investigation. The severity is critical and the current status is resolved."
+  },
+  {
+    "id": "fdd654c5-f493-4423-b44d-72a28e9fc2c3",
+    "title": "Potential Malware Infection on s.williams Workstation",
+    "severity": "high",
+    "status": "open",
+    "createdAt": "2025-06-24T05:32:33.148Z",
+    "source": "Network",
+    "description": "This is a generated alert for \"Potential Malware Infection on s.williams Workstation\". The system detected this event and requires investigation. The severity is high and the current status is open."
+  },
+  {
+    "id": "4d2ae9dd-887f-4437-a348-1a81857d2cc3",
+    "title": "Multiple Failed Authentication Attempts for a.smith",
+    "severity": "low",
+    "status": "resolved",
+    "createdAt": "2025-06-13T12:25:37.136Z",
+    "source": "EDR",
+    "description": "This is a generated alert for \"Multiple Failed Authentication Attempts for a.smith\". The system detected this event and requires investigation. The severity is low and the current status is resolved."
+  },
+  {
+    "id": "00d95199-c938-4066-8914-b7966d33ea1f",
+    "title": "High CPU Usage Anomaly on Order Processor",
+    "severity": "medium",
+    "status": "investigating",
+    "createdAt": "2025-06-02T04:29:46.168Z",
+    "source": "Cloud",
+    "description": "This is a generated alert for \"High CPU Usage Anomaly on Order Processor\". The system detected this event and requires investigation. The severity is medium and the current status is investigating."
+  },
+  {
+    "id": "db600dd6-c7db-454b-bb80-ef4c05b563f9",
+    "title": "High CPU Usage Anomaly on Billing API",
+    "severity": "medium",
+    "status": "resolved",
+    "createdAt": "2025-05-29T15:18:46.422Z",
+    "source": "Network",
+    "description": "This is a generated alert for \"High CPU Usage Anomaly on Billing API\". The system detected this event and requires investigation. The severity is medium and the current status is resolved."
+  },
+  {
+    "id": "59df48b0-e36b-4e55-ad22-2dae3f53b740",
+    "title": "Anomalous API Gateway Traffic from 192.168.1.101",
+    "severity": "low",
+    "status": "resolved",
+    "createdAt": "2025-05-29T02:44:35.912Z",
+    "source": "Cloud",
+    "description": "This is a generated alert for \"Anomalous API Gateway Traffic from 192.168.1.101\". The system detected this event and requires investigation. The severity is low and the current status is resolved."
+  },
+  {
+    "id": "89a0b268-9e0c-43a4-bb70-d4068ef1f0ac",
+    "title": "Suspicious Outbound Connection from 10.0.5.23",
+    "severity": "medium",
+    "status": "open",
+    "createdAt": "2025-05-15T09:03:39.789Z",
+    "source": "EDR",
+    "description": "This is a generated alert for \"Suspicious Outbound Connection from 10.0.5.23\". The system detected this event and requires investigation. The severity is medium and the current status is open."
+  },
+  {
+    "id": "fbcd7f68-6c34-4d6f-bedc-4a431f5ee1eb",
+    "title": "Privilege Escalation Detected for user m.jones",
+    "severity": "low",
+    "status": "resolved",
+    "createdAt": "2025-05-15T09:01:42.367Z",
+    "source": "EDR",
+    "description": "This is a generated alert for \"Privilege Escalation Detected for user m.jones\". The system detected this event and requires investigation. The severity is low and the current status is resolved."
+  },
+  {
+    "id": "6de6d226-3928-4eb1-9358-2209ca292a5e",
+    "title": "Ransomware Signature Detected on File Server",
+    "severity": "critical",
+    "status": "investigating",
+    "createdAt": "2025-05-09T20:17:26.331Z",
+    "source": "SIEM",
+    "description": "This is a generated alert for \"Ransomware Signature Detected on File Server\". The system detected this event and requires investigation. The severity is critical and the current status is investigating."
+  },
+  {
+    "id": "b84e7571-9562-4fa0-8027-c16c47985d76",
+    "title": "Ransomware Signature Detected on File Server",
+    "severity": "critical",
+    "status": "investigating",
+    "createdAt": "2025-04-12T21:40:43.151Z",
+    "source": "Cloud",
+    "description": "This is a generated alert for \"Ransomware Signature Detected on File Server\". The system detected this event and requires investigation. The severity is critical and the current status is investigating."
+  },
+  {
+    "id": "41439529-db5a-4038-a044-f37fc0f3a100",
+    "title": "Ransomware Signature Detected on File Server",
+    "severity": "high",
+    "status": "resolved",
+    "createdAt": "2025-04-07T18:25:58.499Z",
+    "source": "SIEM",
+    "description": "This is a generated alert for \"Ransomware Signature Detected on File Server\". The system detected this event and requires investigation. The severity is high and the current status is resolved."
+  },
+  {
+    "id": "6ef06d20-ed4e-479a-a4a0-203911f1902c",
+    "title": "Data Exfiltration Attempt Detected from Order Processor",
+    "severity": "low",
+    "status": "open",
+    "createdAt": "2025-04-04T20:29:51.626Z",
+    "source": "SIEM",
+    "description": "This is a generated alert for \"Data Exfiltration Attempt Detected from Order Processor\". The system detected this event and requires investigation. The severity is low and the current status is open."
+  },
+  {
+    "id": "89a5542c-e2c9-4517-bd3e-bf4ae231961a",
+    "title": "Suspicious Outbound Connection from 10.0.5.23",
+    "severity": "high",
+    "status": "resolved",
+    "createdAt": "2025-04-04T07:46:59.996Z",
+    "source": "Cloud",
+    "description": "This is a generated alert for \"Suspicious Outbound Connection from 10.0.5.23\". The system detected this event and requires investigation. The severity is high and the current status is resolved."
+  },
+  {
+    "id": "ba470e74-f27b-4411-8535-9bad088ee945",
+    "title": "Ransomware Signature Detected on File Server",
+    "severity": "critical",
+    "status": "open",
+    "createdAt": "2025-03-30T19:09:57.330Z",
+    "source": "Cloud",
+    "description": "This is a generated alert for \"Ransomware Signature Detected on File Server\". The system detected this event and requires investigation. The severity is critical and the current status is open."
+  },
+  {
+    "id": "eafd6f66-36a7-4784-949f-ebfe2732887e",
+    "title": "Unusual Login Activity Detected on Server AUTH-SRV-EU",
+    "severity": "critical",
+    "status": "open",
+    "createdAt": "2025-03-30T09:44:22.304Z",
+    "source": "Network",
+    "description": "This is a generated alert for \"Unusual Login Activity Detected on Server AUTH-SRV-EU\". The system detected this event and requires investigation. The severity is critical and the current status is open."
+  },
+  {
+    "id": "a7abd4d5-05dc-4d97-8366-8a36ca8c1454",
+    "title": "Data Exfiltration Attempt Detected from User Service",
+    "severity": "high",
+    "status": "resolved",
+    "createdAt": "2025-03-30T06:13:28.633Z",
+    "source": "Network",
+    "description": "This is a generated alert for \"Data Exfiltration Attempt Detected from User Service\". The system detected this event and requires investigation. The severity is high and the current status is resolved."
+  },
+  {
+    "id": "8a269768-a1f5-4ae5-a539-a6d5ced90efd",
+    "title": "Phishing Email Reported by s.williams",
+    "severity": "low",
+    "status": "open",
+    "createdAt": "2025-03-25T14:41:37.284Z",
+    "source": "Network",
+    "description": "This is a generated alert for \"Phishing Email Reported by s.williams\". The system detected this event and requires investigation. The severity is low and the current status is open."
+  },
+  {
+    "id": "a48a781d-c306-485e-a308-05a5521a131b",
+    "title": "Privilege Escalation Detected for user m.jones",
+    "severity": "low",
+    "status": "resolved",
+    "createdAt": "2025-03-14T04:05:23.954Z",
+    "source": "Endpoint",
+    "description": "This is a generated alert for \"Privilege Escalation Detected for user m.jones\". The system detected this event and requires investigation. The severity is low and the current status is resolved."
+  },
+  {
+    "id": "ebcde3ce-c1f8-4e9d-8f24-ff81cc70d50f",
+    "title": "Multiple Failed Authentication Attempts for m.jones",
+    "severity": "critical",
+    "status": "open",
+    "createdAt": "2025-03-12T15:51:59.104Z",
+    "source": "Network",
+    "description": "This is a generated alert for \"Multiple Failed Authentication Attempts for m.jones\". The system detected this event and requires investigation. The severity is critical and the current status is open."
+  },
+  {
+    "id": "4a7d18e1-ca2a-4adb-82b9-0820f12bfead",
+    "title": "Ransomware Signature Detected on File Server",
+    "severity": "critical",
+    "status": "resolved",
+    "createdAt": "2025-03-08T09:04:22.234Z",
+    "source": "Endpoint",
+    "description": "This is a generated alert for \"Ransomware Signature Detected on File Server\". The system detected this event and requires investigation. The severity is critical and the current status is resolved."
+  },
+  {
+    "id": "837bbd45-3259-4744-992e-b7f7ab9bcdc7",
+    "title": "Phishing Email Reported by a.smith",
+    "severity": "high",
+    "status": "resolved",
+    "createdAt": "2025-02-18T22:35:44.996Z",
+    "source": "Network",
+    "description": "This is a generated alert for \"Phishing Email Reported by a.smith\". The system detected this event and requires investigation. The severity is high and the current status is resolved."
+  },
+  {
+    "id": "70cca163-44bc-47d5-9f16-7ac407e148d2",
+    "title": "Data Exfiltration Attempt Detected from User Service",
+    "severity": "medium",
+    "status": "investigating",
+    "createdAt": "2025-02-09T01:42:52.535Z",
+    "source": "Endpoint",
+    "description": "This is a generated alert for \"Data Exfiltration Attempt Detected from User Service\". The system detected this event and requires investigation. The severity is medium and the current status is investigating."
+  },
+  {
+    "id": "f79107ea-48da-44d5-823d-961740ef6433",
+    "title": "Phishing Email Reported by s.williams",
+    "severity": "medium",
+    "status": "open",
+    "createdAt": "2025-02-01T02:19:09.537Z",
+    "source": "EDR",
+    "description": "This is a generated alert for \"Phishing Email Reported by s.williams\". The system detected this event and requires investigation. The severity is medium and the current status is open."
+  },
+  {
+    "id": "556ba2fe-c6b1-4e28-8f7f-96b48a2d463a",
+    "title": "Potential Malware Infection on a.smith Workstation",
+    "severity": "low",
+    "status": "open",
+    "createdAt": "2025-01-27T06:30:40.817Z",
+    "source": "Cloud",
+    "description": "This is a generated alert for \"Potential Malware Infection on a.smith Workstation\". The system detected this event and requires investigation. The severity is low and the current status is open."
+  },
+  {
+    "id": "bbd016d9-64d8-4f62-b118-b1a4f4ec0ae9",
+    "title": "Potential Malware Infection on j.doe Workstation",
+    "severity": "low",
+    "status": "investigating",
+    "createdAt": "2025-01-21T20:05:57.376Z",
+    "source": "SIEM",
+    "description": "This is a generated alert for \"Potential Malware Infection on j.doe Workstation\". The system detected this event and requires investigation. The severity is low and the current status is investigating."
+  },
+  {
+    "id": "2e00f32f-e15c-44d7-a8fc-894db1aeb4f1",
+    "title": "Ransomware Signature Detected on File Server",
+    "severity": "low",
+    "status": "investigating",
+    "createdAt": "2025-01-17T14:08:06.040Z",
+    "source": "EDR",
+    "description": "This is a generated alert for \"Ransomware Signature Detected on File Server\". The system detected this event and requires investigation. The severity is low and the current status is investigating."
+  },
+  {
+    "id": "d93ee2b4-10ce-405f-80b7-28850fe4755a",
+    "title": "High CPU Usage Anomaly on User Service",
+    "severity": "low",
+    "status": "resolved",
+    "createdAt": "2025-01-07T12:39:17.458Z",
+    "source": "SIEM",
+    "description": "This is a generated alert for \"High CPU Usage Anomaly on User Service\". The system detected this event and requires investigation. The severity is low and the current status is resolved."
+  },
+  {
+    "id": "67cef259-ec61-4796-9365-b4898b860080",
+    "title": "Data Exfiltration Attempt Detected from Order Processor",
+    "severity": "medium",
+    "status": "resolved",
+    "createdAt": "2025-01-05T23:22:18.597Z",
+    "source": "Cloud",
+    "description": "This is a generated alert for \"Data Exfiltration Attempt Detected from Order Processor\". The system detected this event and requires investigation. The severity is medium and the current status is resolved."
+  },
+  {
+    "id": "79413a1d-8d48-4549-8af4-ac32c935e79d",
+    "title": "Privilege Escalation Detected for user a.smith",
+    "severity": "low",
+    "status": "open",
+    "createdAt": "2025-01-05T22:38:09.257Z",
+    "source": "EDR",
+    "description": "This is a generated alert for \"Privilege Escalation Detected for user a.smith\". The system detected this event and requires investigation. The severity is low and the current status is open."
+  },
+  {
+    "id": "2a8cd52b-f5f9-4d71-9c6e-c818a79c0d8d",
+    "title": "Suspicious Outbound Connection from 192.168.1.101",
+    "severity": "medium",
+    "status": "resolved",
+    "createdAt": "2025-01-05T07:10:27.105Z",
+    "source": "SIEM",
+    "description": "This is a generated alert for \"Suspicious Outbound Connection from 192.168.1.101\". The system detected this event and requires investigation. The severity is medium and the current status is resolved."
+  },
+  {
+    "id": "63137021-fa97-45ac-af70-e04564b341db",
+    "title": "Multiple Failed Authentication Attempts for m.jones",
+    "severity": "high",
+    "status": "investigating",
+    "createdAt": "2025-01-05T06:04:27.156Z",
+    "source": "SIEM",
+    "description": "This is a generated alert for \"Multiple Failed Authentication Attempts for m.jones\". The system detected this event and requires investigation. The severity is high and the current status is investigating."
+  },
+  {
+    "id": "ec1d2b67-aa16-4458-a985-9c7eba4139f5",
+    "title": "Privilege Escalation Detected for user j.doe",
+    "severity": "medium",
+    "status": "open",
+    "createdAt": "2024-12-26T10:35:20.047Z",
+    "source": "SIEM",
+    "description": "This is a generated alert for \"Privilege Escalation Detected for user j.doe\". The system detected this event and requires investigation. The severity is medium and the current status is open."
+  },
+  {
+    "id": "8e1f15d7-0658-481a-8627-bda029017303",
+    "title": "Anomalous API Gateway Traffic from 10.0.5.23",
+    "severity": "critical",
+    "status": "resolved",
+    "createdAt": "2024-12-07T04:11:01.801Z",
+    "source": "Cloud",
+    "description": "This is a generated alert for \"Anomalous API Gateway Traffic from 10.0.5.23\". The system detected this event and requires investigation. The severity is critical and the current status is resolved."
+  },
+  {
+    "id": "123e7a76-ab09-44ab-a1d1-a3a86b3a5a38",
+    "title": "Ransomware Signature Detected on File Server",
+    "severity": "medium",
+    "status": "resolved",
+    "createdAt": "2024-12-05T21:44:51.841Z",
+    "source": "SIEM",
+    "description": "This is a generated alert for \"Ransomware Signature Detected on File Server\". The system detected this event and requires investigation. The severity is medium and the current status is resolved."
+  },
+  {
+    "id": "6361eb3b-a1d7-404f-8f81-aa7ae8b7704d",
+    "title": "Potential Malware Infection on s.williams Workstation",
+    "severity": "critical",
+    "status": "open",
+    "createdAt": "2024-12-04T14:23:20.427Z",
+    "source": "Cloud",
+    "description": "This is a generated alert for \"Potential Malware Infection on s.williams Workstation\". The system detected this event and requires investigation. The severity is critical and the current status is open."
+  },
+  {
+    "id": "5cb0bb72-866a-4283-b4f9-1878b4633ad7",
+    "title": "Potential Malware Infection on s.williams Workstation",
+    "severity": "high",
+    "status": "open",
+    "createdAt": "2024-11-29T15:13:24.799Z",
+    "source": "Endpoint",
+    "description": "This is a generated alert for \"Potential Malware Infection on s.williams Workstation\". The system detected this event and requires investigation. The severity is high and the current status is open."
+  },
+  {
+    "id": "b5cdd7e3-d322-40d5-a5bf-6c792ecc4eb4",
+    "title": "Ransomware Signature Detected on File Server",
+    "severity": "high",
+    "status": "investigating",
+    "createdAt": "2024-11-28T01:02:57.170Z",
+    "source": "EDR",
+    "description": "This is a generated alert for \"Ransomware Signature Detected on File Server\". The system detected this event and requires investigation. The severity is high and the current status is investigating."
+  },
+  {
+    "id": "0b5ac479-61ff-4bc5-a4cb-a2df5fc439d2",
+    "title": "Anomalous API Gateway Traffic from 192.168.1.101",
+    "severity": "low",
+    "status": "investigating",
+    "createdAt": "2024-11-17T05:08:35.032Z",
+    "source": "Cloud",
+    "description": "This is a generated alert for \"Anomalous API Gateway Traffic from 192.168.1.101\". The system detected this event and requires investigation. The severity is low and the current status is investigating."
+  },
+  {
+    "id": "85abc991-6c26-44f4-ac0d-3119e26fa47f",
+    "title": "Potential Malware Infection on a.smith Workstation",
+    "severity": "critical",
+    "status": "open",
+    "createdAt": "2024-11-16T23:22:58.294Z",
+    "source": "SIEM",
+    "description": "This is a generated alert for \"Potential Malware Infection on a.smith Workstation\". The system detected this event and requires investigation. The severity is critical and the current status is open."
+  },
+  {
+    "id": "9a86b42d-9835-41f2-8d0a-4742967c058c",
+    "title": "Unusual Login Activity Detected on Server AUTH-SRV-EU",
+    "severity": "low",
+    "status": "resolved",
+    "createdAt": "2024-11-11T07:05:52.834Z",
+    "source": "SIEM",
+    "description": "This is a generated alert for \"Unusual Login Activity Detected on Server AUTH-SRV-EU\". The system detected this event and requires investigation. The severity is low and the current status is resolved."
+  },
+  {
+    "id": "827f55a4-d527-41cd-8472-814aff5a43bd",
+    "title": "Ransomware Signature Detected on File Server",
+    "severity": "medium",
+    "status": "resolved",
+    "createdAt": "2024-11-01T19:54:48.302Z",
+    "source": "Cloud",
+    "description": "This is a generated alert for \"Ransomware Signature Detected on File Server\". The system detected this event and requires investigation. The severity is medium and the current status is resolved."
+  },
+  {
+    "id": "329ff4fb-defe-426d-9b36-d4d9448a7bf0",
+    "title": "Privilege Escalation Detected for user m.jones",
+    "severity": "low",
+    "status": "investigating",
+    "createdAt": "2024-11-01T09:20:12.786Z",
+    "source": "Network",
+    "description": "This is a generated alert for \"Privilege Escalation Detected for user m.jones\". The system detected this event and requires investigation. The severity is low and the current status is investigating."
+  },
+  {
+    "id": "0fe5cdef-fd8d-417c-a0d6-f8a99ba95e9c",
+    "title": "Privilege Escalation Detected for user j.doe",
+    "severity": "critical",
+    "status": "resolved",
+    "createdAt": "2024-10-02T23:35:59.962Z",
+    "source": "Network",
+    "description": "This is a generated alert for \"Privilege Escalation Detected for user j.doe\". The system detected this event and requires investigation. The severity is critical and the current status is resolved."
+  },
+  {
+    "id": "d72f513e-4619-42bc-b39a-491dd8e6ee34",
+    "title": "High CPU Usage Anomaly on Billing API",
+    "severity": "medium",
+    "status": "open",
+    "createdAt": "2024-10-01T17:32:21.937Z",
+    "source": "Endpoint",
+    "description": "This is a generated alert for \"High CPU Usage Anomaly on Billing API\". The system detected this event and requires investigation. The severity is medium and the current status is open."
+  },
+  {
+    "id": "3c2a8160-8d0c-4187-814e-54870e35e416",
+    "title": "High CPU Usage Anomaly on Order Processor",
+    "severity": "critical",
+    "status": "investigating",
+    "createdAt": "2024-09-23T23:41:16.172Z",
+    "source": "Endpoint",
+    "description": "This is a generated alert for \"High CPU Usage Anomaly on Order Processor\". The system detected this event and requires investigation. The severity is critical and the current status is investigating."
+  },
+  {
+    "id": "76dfb13c-75e6-44bd-90e6-c9a93bc107b7",
+    "title": "Data Exfiltration Attempt Detected from User Service",
+    "severity": "high",
+    "status": "resolved",
+    "createdAt": "2024-09-15T07:24:59.432Z",
+    "source": "EDR",
+    "description": "This is a generated alert for \"Data Exfiltration Attempt Detected from User Service\". The system detected this event and requires investigation. The severity is high and the current status is resolved."
+  },
+  {
+    "id": "5e92500c-4c49-43ed-a912-89abad0a4439",
+    "title": "Privilege Escalation Detected for user a.smith",
+    "severity": "medium",
+    "status": "open",
+    "createdAt": "2024-09-14T16:44:11.491Z",
+    "source": "Network",
+    "description": "This is a generated alert for \"Privilege Escalation Detected for user a.smith\". The system detected this event and requires investigation. The severity is medium and the current status is open."
+  },
+  {
+    "id": "5ac229f2-b265-4c36-92bb-dc2d0bd3bd74",
+    "title": "Unusual Login Activity Detected on Server WEB-APP-03",
+    "severity": "medium",
+    "status": "investigating",
+    "createdAt": "2024-09-11T09:37:27.289Z",
+    "source": "EDR",
+    "description": "This is a generated alert for \"Unusual Login Activity Detected on Server WEB-APP-03\". The system detected this event and requires investigation. The severity is medium and the current status is investigating."
+  },
+  {
+    "id": "703790c5-1535-4ea1-8719-306f316e707e",
+    "title": "Anomalous API Gateway Traffic from 172.16.31.5",
+    "severity": "medium",
+    "status": "resolved",
+    "createdAt": "2024-09-10T03:52:44.395Z",
+    "source": "Cloud",
+    "description": "This is a generated alert for \"Anomalous API Gateway Traffic from 172.16.31.5\". The system detected this event and requires investigation. The severity is medium and the current status is resolved."
+  },
+  {
+    "id": "b61c9643-5143-42c6-a402-97125c5375f6",
+    "title": "Potential Malware Infection on s.williams Workstation",
+    "severity": "low",
+    "status": "investigating",
+    "createdAt": "2024-09-02T03:28:29.042Z",
+    "source": "Network",
+    "description": "This is a generated alert for \"Potential Malware Infection on s.williams Workstation\". The system detected this event and requires investigation. The severity is low and the current status is investigating."
+  },
+  {
+    "id": "1b05d8b9-47ae-4ccd-a5ea-189397f2c2e1",
+    "title": "Potential Malware Infection on j.doe Workstation",
+    "severity": "medium",
+    "status": "investigating",
+    "createdAt": "2024-07-29T04:33:05.122Z",
+    "source": "Network",
+    "description": "This is a generated alert for \"Potential Malware Infection on j.doe Workstation\". The system detected this event and requires investigation. The severity is medium and the current status is investigating."
+  },
+  {
+    "id": "cd71ce4f-74c7-41a3-95cb-69e2ae1524af",
+    "title": "Potential Malware Infection on a.smith Workstation",
+    "severity": "critical",
+    "status": "resolved",
+    "createdAt": "2024-07-27T02:44:50.031Z",
+    "source": "Endpoint",
+    "description": "This is a generated alert for \"Potential Malware Infection on a.smith Workstation\". The system detected this event and requires investigation. The severity is critical and the current status is resolved."
+  },
+  {
+    "id": "b0586970-7aa2-44de-82cc-d9cfa0e90e7e",
+    "title": "Data Exfiltration Attempt Detected from Billing API",
+    "severity": "medium",
+    "status": "open",
+    "createdAt": "2024-07-21T19:17:55.310Z",
+    "source": "Endpoint",
+    "description": "This is a generated alert for \"Data Exfiltration Attempt Detected from Billing API\". The system detected this event and requires investigation. The severity is medium and the current status is open."
+  },
+  {
+    "id": "a230393f-266a-4ba9-9f0c-e72aa0368df7",
+    "title": "Anomalous API Gateway Traffic from 192.168.1.101",
+    "severity": "medium",
+    "status": "open",
+    "createdAt": "2024-07-16T20:27:54.032Z",
+    "source": "EDR",
+    "description": "This is a generated alert for \"Anomalous API Gateway Traffic from 192.168.1.101\". The system detected this event and requires investigation. The severity is medium and the current status is open."
+  },
+  {
+    "id": "ff9d6c0d-7420-498c-8876-e51ba547b0bb",
+    "title": "Phishing Email Reported by m.jones",
+    "severity": "medium",
+    "status": "investigating",
+    "createdAt": "2024-06-15T11:02:08.743Z",
+    "source": "Cloud",
+    "description": "This is a generated alert for \"Phishing Email Reported by m.jones\". The system detected this event and requires investigation. The severity is medium and the current status is investigating."
+  },
+  {
+    "id": "3028ccd5-9a08-4f4d-84ce-132681c774e9",
+    "title": "Anomalous API Gateway Traffic from 172.16.31.5",
+    "severity": "medium",
+    "status": "investigating",
+    "createdAt": "2024-06-14T00:04:44.685Z",
+    "source": "Network",
+    "description": "This is a generated alert for \"Anomalous API Gateway Traffic from 172.16.31.5\". The system detected this event and requires investigation. The severity is medium and the current status is investigating."
+  },
+  {
+    "id": "d9ee01be-8114-4433-982e-14ffdfc93749",
+    "title": "Privilege Escalation Detected for user a.smith",
+    "severity": "low",
+    "status": "resolved",
+    "createdAt": "2024-06-04T19:07:27.641Z",
+    "source": "Endpoint",
+    "description": "This is a generated alert for \"Privilege Escalation Detected for user a.smith\". The system detected this event and requires investigation. The severity is low and the current status is resolved."
+  },
+  {
+    "id": "619c900b-15f9-4675-b168-0edd44641c13",
+    "title": "Privilege Escalation Detected for user a.smith",
+    "severity": "high",
+    "status": "open",
+    "createdAt": "2024-06-03T20:15:24.009Z",
+    "source": "Network",
+    "description": "This is a generated alert for \"Privilege Escalation Detected for user a.smith\". The system detected this event and requires investigation. The severity is high and the current status is open."
+  },
+  {
+    "id": "8418989d-7431-4749-a1f1-1adac9a2dcad",
+    "title": "Anomalous API Gateway Traffic from 10.0.5.23",
+    "severity": "critical",
+    "status": "resolved",
+    "createdAt": "2024-05-28T22:37:59.692Z",
+    "source": "Network",
+    "description": "This is a generated alert for \"Anomalous API Gateway Traffic from 10.0.5.23\". The system detected this event and requires investigation. The severity is critical and the current status is resolved."
+  },
+  {
+    "id": "d72c6e0f-a7c8-4989-8927-0c2e028b423c",
+    "title": "Ransomware Signature Detected on File Server",
+    "severity": "high",
+    "status": "open",
+    "createdAt": "2024-05-24T21:07:43.652Z",
+    "source": "Endpoint",
+    "description": "This is a generated alert for \"Ransomware Signature Detected on File Server\". The system detected this event and requires investigation. The severity is high and the current status is open."
+  },
+  {
+    "id": "785c62f4-502e-4bfa-aafd-96dec5c3c81d",
+    "title": "Multiple Failed Authentication Attempts for j.doe",
+    "severity": "critical",
+    "status": "resolved",
+    "createdAt": "2024-05-21T02:44:39.037Z",
+    "source": "Network",
+    "description": "This is a generated alert for \"Multiple Failed Authentication Attempts for j.doe\". The system detected this event and requires investigation. The severity is critical and the current status is resolved."
+  },
+  {
+    "id": "0e48a8a5-fa73-40d6-a4cd-67d4936cf38f",
+    "title": "Data Exfiltration Attempt Detected from User Service",
+    "severity": "high",
+    "status": "investigating",
+    "createdAt": "2024-04-18T01:06:22.310Z",
+    "source": "EDR",
+    "description": "This is a generated alert for \"Data Exfiltration Attempt Detected from User Service\". The system detected this event and requires investigation. The severity is high and the current status is investigating."
+  },
+  {
+    "id": "c0738b9e-3d3f-45c1-8620-aa81aac8bf81",
+    "title": "High CPU Usage Anomaly on Billing API",
+    "severity": "low",
+    "status": "open",
+    "createdAt": "2024-04-17T23:55:39.352Z",
+    "source": "Endpoint",
+    "description": "This is a generated alert for \"High CPU Usage Anomaly on Billing API\". The system detected this event and requires investigation. The severity is low and the current status is open."
+  },
+  {
+    "id": "c4a3b54c-2e90-4b8f-9ffe-f533ac0bd711",
+    "title": "Anomalous API Gateway Traffic from 172.16.31.5",
+    "severity": "critical",
+    "status": "open",
+    "createdAt": "2024-04-05T03:50:05.005Z",
+    "source": "SIEM",
+    "description": "This is a generated alert for \"Anomalous API Gateway Traffic from 172.16.31.5\". The system detected this event and requires investigation. The severity is critical and the current status is open."
+  },
+  {
+    "id": "881b6b6c-7302-4152-8b99-ac6fb82cdd7b",
+    "title": "Phishing Email Reported by j.doe",
+    "severity": "high",
+    "status": "open",
+    "createdAt": "2024-03-24T18:59:24.460Z",
+    "source": "Endpoint",
+    "description": "This is a generated alert for \"Phishing Email Reported by j.doe\". The system detected this event and requires investigation. The severity is high and the current status is open."
+  },
+  {
+    "id": "de9946f7-5f44-4e4b-82b6-d251177c3e4b",
+    "title": "Data Exfiltration Attempt Detected from Billing API",
+    "severity": "critical",
+    "status": "investigating",
+    "createdAt": "2024-03-11T07:36:37.082Z",
+    "source": "SIEM",
+    "description": "This is a generated alert for \"Data Exfiltration Attempt Detected from Billing API\". The system detected this event and requires investigation. The severity is critical and the current status is investigating."
+  },
+  {
+    "id": "cdda2dcf-3ee4-43ed-a44c-be4622ee45f8",
+    "title": "Potential Malware Infection on a.smith Workstation",
+    "severity": "high",
+    "status": "investigating",
+    "createdAt": "2024-03-09T11:25:35.422Z",
+    "source": "Endpoint",
+    "description": "This is a generated alert for \"Potential Malware Infection on a.smith Workstation\". The system detected this event and requires investigation. The severity is high and the current status is investigating."
+  },
+  {
+    "id": "9a9a24e3-d810-457d-b299-4b02b8a1a7b3",
+    "title": "Suspicious Outbound Connection from 10.0.5.23",
+    "severity": "high",
+    "status": "investigating",
+    "createdAt": "2024-03-08T09:51:44.843Z",
+    "source": "Endpoint",
+    "description": "This is a generated alert for \"Suspicious Outbound Connection from 10.0.5.23\". The system detected this event and requires investigation. The severity is high and the current status is investigating."
+  },
+  {
+    "id": "835be37e-f863-4a81-bca3-154c6dfa28d1",
+    "title": "Anomalous API Gateway Traffic from 172.16.31.5",
+    "severity": "low",
+    "status": "resolved",
+    "createdAt": "2024-02-16T13:55:42.238Z",
+    "source": "SIEM",
+    "description": "This is a generated alert for \"Anomalous API Gateway Traffic from 172.16.31.5\". The system detected this event and requires investigation. The severity is low and the current status is resolved."
+  },
+  {
+    "id": "ded45078-27c6-4c58-808a-91773469ce12",
+    "title": "Ransomware Signature Detected on File Server",
+    "severity": "critical",
+    "status": "open",
+    "createdAt": "2024-02-13T02:15:13.550Z",
+    "source": "Endpoint",
+    "description": "This is a generated alert for \"Ransomware Signature Detected on File Server\". The system detected this event and requires investigation. The severity is critical and the current status is open."
+  },
+  {
+    "id": "672c0ca2-c81b-49d5-b1da-556123aa3386",
+    "title": "Suspicious Outbound Connection from 172.16.31.5",
+    "severity": "low",
+    "status": "investigating",
+    "createdAt": "2024-02-04T17:28:38.452Z",
+    "source": "Endpoint",
+    "description": "This is a generated alert for \"Suspicious Outbound Connection from 172.16.31.5\". The system detected this event and requires investigation. The severity is low and the current status is investigating."
+  },
+  {
+    "id": "3e64a244-44d5-4c53-919b-8e387adc3418",
+    "title": "Unusual Login Activity Detected on Server AUTH-SRV-EU",
+    "severity": "low",
+    "status": "open",
+    "createdAt": "2024-01-17T18:33:37.380Z",
+    "source": "Endpoint",
+    "description": "This is a generated alert for \"Unusual Login Activity Detected on Server AUTH-SRV-EU\". The system detected this event and requires investigation. The severity is low and the current status is open."
+  },
+  {
+    "id": "a73f97d3-bb4a-449e-8d8b-64bedc1d5cc9",
+    "title": "Suspicious Outbound Connection from 10.0.5.23",
+    "severity": "low",
+    "status": "open",
+    "createdAt": "2024-01-16T10:06:48.212Z",
+    "source": "EDR",
+    "description": "This is a generated alert for \"Suspicious Outbound Connection from 10.0.5.23\". The system detected this event and requires investigation. The severity is low and the current status is open."
+  },
+  {
+    "id": "7de8c367-a3d8-4520-8e8b-4e6a278952c2",
+    "title": "Phishing Email Reported by a.smith",
+    "severity": "high",
+    "status": "resolved",
+    "createdAt": "2024-01-02T22:48:00.251Z",
+    "source": "Network",
+    "description": "This is a generated alert for \"Phishing Email Reported by a.smith\". The system detected this event and requires investigation. The severity is high and the current status is resolved."
+  },
+  {
+    "id": "eb213992-66e3-4cbb-9de2-12f6e8732041",
+    "title": "Anomalous API Gateway Traffic from 192.168.1.101",
+    "severity": "low",
+    "status": "open",
+    "createdAt": "2023-12-17T13:24:18.195Z",
+    "source": "Cloud",
+    "description": "This is a generated alert for \"Anomalous API Gateway Traffic from 192.168.1.101\". The system detected this event and requires investigation. The severity is low and the current status is open."
+  },
+  {
+    "id": "fda20b8e-a44c-49bd-9cc7-54864f61d354",
+    "title": "Privilege Escalation Detected for user s.williams",
+    "severity": "high",
+    "status": "investigating",
+    "createdAt": "2023-11-29T09:59:56.637Z",
+    "source": "SIEM",
+    "description": "This is a generated alert for \"Privilege Escalation Detected for user s.williams\". The system detected this event and requires investigation. The severity is high and the current status is investigating."
+  },
+  {
+    "id": "8569b3ee-c19c-4a5e-bf37-54e65b940dd0",
+    "title": "Anomalous API Gateway Traffic from 192.168.1.101",
+    "severity": "medium",
+    "status": "investigating",
+    "createdAt": "2023-11-21T06:38:28.257Z",
+    "source": "Network",
+    "description": "This is a generated alert for \"Anomalous API Gateway Traffic from 192.168.1.101\". The system detected this event and requires investigation. The severity is medium and the current status is investigating."
+  },
+  {
+    "id": "94f85742-1a89-47af-9b36-6e226823ccfa",
+    "title": "High CPU Usage Anomaly on User Service",
+    "severity": "high",
+    "status": "investigating",
+    "createdAt": "2023-11-21T02:49:48.863Z",
+    "source": "EDR",
+    "description": "This is a generated alert for \"High CPU Usage Anomaly on User Service\". The system detected this event and requires investigation. The severity is high and the current status is investigating."
+  },
+  {
+    "id": "d1ee63d1-dde3-43d8-bd9c-d664a4595fab",
+    "title": "Data Exfiltration Attempt Detected from User Service",
+    "severity": "critical",
+    "status": "resolved",
+    "createdAt": "2023-11-20T11:27:12.627Z",
+    "source": "SIEM",
+    "description": "This is a generated alert for \"Data Exfiltration Attempt Detected from User Service\". The system detected this event and requires investigation. The severity is critical and the current status is resolved."
+  },
+  {
+    "id": "67defaeb-5ce9-4c66-86ba-b90f705d99d4",
+    "title": "Anomalous API Gateway Traffic from 192.168.1.101",
+    "severity": "low",
+    "status": "resolved",
+    "createdAt": "2023-11-08T07:47:56.319Z",
+    "source": "EDR",
+    "description": "This is a generated alert for \"Anomalous API Gateway Traffic from 192.168.1.101\". The system detected this event and requires investigation. The severity is low and the current status is resolved."
+  },
+  {
+    "id": "7df5e279-ecdd-4a1a-a390-69d883a72d65",
+    "title": "Multiple Failed Authentication Attempts for s.williams",
+    "severity": "high",
+    "status": "open",
+    "createdAt": "2023-11-06T00:07:26.898Z",
+    "source": "Cloud",
+    "description": "This is a generated alert for \"Multiple Failed Authentication Attempts for s.williams\". The system detected this event and requires investigation. The severity is high and the current status is open."
+  },
+  {
+    "id": "e218f3a8-9ee3-4d95-8e65-921ca2caed67",
+    "title": "Phishing Email Reported by j.doe",
+    "severity": "critical",
+    "status": "resolved",
+    "createdAt": "2023-11-01T22:36:34.139Z",
+    "source": "Network",
+    "description": "This is a generated alert for \"Phishing Email Reported by j.doe\". The system detected this event and requires investigation. The severity is critical and the current status is resolved."
+  },
+  {
+    "id": "d22b7848-399f-48de-b1b4-b753843d1c65",
+    "title": "Unusual Login Activity Detected on Server AUTH-SRV-EU",
+    "severity": "high",
+    "status": "resolved",
+    "createdAt": "2023-10-26T11:10:17.790Z",
+    "source": "Endpoint",
+    "description": "This is a generated alert for \"Unusual Login Activity Detected on Server AUTH-SRV-EU\". The system detected this event and requires investigation. The severity is high and the current status is resolved."
+  },
+  {
+    "id": "3f91cd9f-b183-4898-8e6c-f4ad116e2604",
+    "title": "Suspicious Outbound Connection from 192.168.1.101",
+    "severity": "critical",
+    "status": "open",
+    "createdAt": "2023-10-23T05:32:45.651Z",
+    "source": "Network",
+    "description": "This is a generated alert for \"Suspicious Outbound Connection from 192.168.1.101\". The system detected this event and requires investigation. The severity is critical and the current status is open."
+  },
+  {
+    "id": "774c533e-7ec8-4878-ba93-980d8cb4d032",
+    "title": "Data Exfiltration Attempt Detected from User Service",
+    "severity": "medium",
+    "status": "resolved",
+    "createdAt": "2023-10-11T21:34:25.673Z",
+    "source": "Endpoint",
+    "description": "This is a generated alert for \"Data Exfiltration Attempt Detected from User Service\". The system detected this event and requires investigation. The severity is medium and the current status is resolved."
+  },
+  {
+    "id": "2392b453-6c3d-4935-b1dc-76f169a3ee9f",
+    "title": "High CPU Usage Anomaly on User Service",
+    "severity": "low",
+    "status": "investigating",
+    "createdAt": "2023-10-01T20:59:46.372Z",
+    "source": "Network",
+    "description": "This is a generated alert for \"High CPU Usage Anomaly on User Service\". The system detected this event and requires investigation. The severity is low and the current status is investigating."
+  },
+  {
+    "id": "93699ae5-2c46-4888-bb40-79a69ca230d6",
+    "title": "Ransomware Signature Detected on File Server",
+    "severity": "high",
+    "status": "investigating",
+    "createdAt": "2023-09-23T11:26:55.362Z",
+    "source": "Endpoint",
+    "description": "This is a generated alert for \"Ransomware Signature Detected on File Server\". The system detected this event and requires investigation. The severity is high and the current status is investigating."
+  },
+  {
+    "id": "e3e4d9ff-26e7-419c-951e-0bdf11988556",
+    "title": "Potential Malware Infection on j.doe Workstation",
+    "severity": "medium",
+    "status": "open",
+    "createdAt": "2023-09-09T18:30:10.740Z",
+    "source": "EDR",
+    "description": "This is a generated alert for \"Potential Malware Infection on j.doe Workstation\". The system detected this event and requires investigation. The severity is medium and the current status is open."
+  },
+  {
+    "id": "45ff21bc-2db7-4153-82d5-605da6632e84",
+    "title": "Phishing Email Reported by m.jones",
+    "severity": "high",
+    "status": "investigating",
+    "createdAt": "2023-09-02T23:57:59.579Z",
+    "source": "Cloud",
+    "description": "This is a generated alert for \"Phishing Email Reported by m.jones\". The system detected this event and requires investigation. The severity is high and the current status is investigating."
+  },
+  {
+    "id": "a3c96a54-e76d-485c-9e60-f1a2052cf25b",
+    "title": "High CPU Usage Anomaly on User Service",
+    "severity": "low",
+    "status": "investigating",
+    "createdAt": "2023-08-22T21:36:08.354Z",
+    "source": "EDR",
+    "description": "This is a generated alert for \"High CPU Usage Anomaly on User Service\". The system detected this event and requires investigation. The severity is low and the current status is investigating."
+  },
+  {
+    "id": "070565f6-f526-46b2-ab39-df26df305eaf",
+    "title": "High CPU Usage Anomaly on Billing API",
+    "severity": "critical",
+    "status": "open",
+    "createdAt": "2023-08-19T21:36:42.641Z",
+    "source": "EDR",
+    "description": "This is a generated alert for \"High CPU Usage Anomaly on Billing API\". The system detected this event and requires investigation. The severity is critical and the current status is open."
+  },
+  {
+    "id": "2d0f7dbd-3c78-44df-a769-340592c4c9d2",
+    "title": "Suspicious Outbound Connection from 10.0.5.23",
+    "severity": "critical",
+    "status": "resolved",
+    "createdAt": "2023-08-18T01:40:47.019Z",
+    "source": "SIEM",
+    "description": "This is a generated alert for \"Suspicious Outbound Connection from 10.0.5.23\". The system detected this event and requires investigation. The severity is critical and the current status is resolved."
+  },
+  {
+    "id": "130379b8-ae18-4274-a1c7-08ae69451423",
+    "title": "Data Exfiltration Attempt Detected from User Service",
+    "severity": "medium",
+    "status": "open",
+    "createdAt": "2023-08-09T04:17:18.225Z",
+    "source": "SIEM",
+    "description": "This is a generated alert for \"Data Exfiltration Attempt Detected from User Service\". The system detected this event and requires investigation. The severity is medium and the current status is open."
+  },
+  {
+    "id": "e0582954-d406-4a8e-9cda-8948dc5f297e",
+    "title": "Ransomware Signature Detected on File Server",
+    "severity": "medium",
+    "status": "investigating",
+    "createdAt": "2023-08-04T18:00:02.039Z",
+    "source": "EDR",
+    "description": "This is a generated alert for \"Ransomware Signature Detected on File Server\". The system detected this event and requires investigation. The severity is medium and the current status is investigating."
+  },
+  {
+    "id": "41c8d947-f88d-460c-9a6a-05e88985f398",
+    "title": "Unusual Login Activity Detected on Server WEB-APP-03",
+    "severity": "high",
+    "status": "investigating",
+    "createdAt": "2023-08-04T09:40:17.492Z",
+    "source": "Endpoint",
+    "description": "This is a generated alert for \"Unusual Login Activity Detected on Server WEB-APP-03\". The system detected this event and requires investigation. The severity is high and the current status is investigating."
+  },
+  {
+    "id": "4e4eed22-0160-42d9-9a22-e01f32cdbd86",
+    "title": "Privilege Escalation Detected for user j.doe",
+    "severity": "low",
+    "status": "investigating",
+    "createdAt": "2023-07-31T22:30:02.279Z",
+    "source": "Cloud",
+    "description": "This is a generated alert for \"Privilege Escalation Detected for user j.doe\". The system detected this event and requires investigation. The severity is low and the current status is investigating."
+  },
+  {
+    "id": "8f7800e7-b775-4c58-9cd2-9a417cd19e64",
+    "title": "Multiple Failed Authentication Attempts for j.doe",
+    "severity": "medium",
+    "status": "investigating",
+    "createdAt": "2023-07-20T18:39:06.078Z",
+    "source": "Cloud",
+    "description": "This is a generated alert for \"Multiple Failed Authentication Attempts for j.doe\". The system detected this event and requires investigation. The severity is medium and the current status is investigating."
+  },
+  {
+    "id": "cb4f307f-5929-4b56-9463-b5fd86a158bf",
+    "title": "Unusual Login Activity Detected on Server WEB-APP-03",
+    "severity": "high",
+    "status": "open",
+    "createdAt": "2023-07-10T18:24:11.905Z",
+    "source": "Cloud",
+    "description": "This is a generated alert for \"Unusual Login Activity Detected on Server WEB-APP-03\". The system detected this event and requires investigation. The severity is high and the current status is open."
+  },
+  {
+    "id": "0b32ec2a-7e7d-4b80-89d1-ace8765cc741",
+    "title": "Multiple Failed Authentication Attempts for j.doe",
+    "severity": "critical",
+    "status": "investigating",
+    "createdAt": "2023-07-10T07:09:49.173Z",
+    "source": "Cloud",
+    "description": "This is a generated alert for \"Multiple Failed Authentication Attempts for j.doe\". The system detected this event and requires investigation. The severity is critical and the current status is investigating."
+  },
+  {
+    "id": "54c2972a-d995-438e-99cc-2e18680cd66b",
+    "title": "Phishing Email Reported by a.smith",
+    "severity": "high",
+    "status": "open",
+    "createdAt": "2023-06-30T23:35:40.852Z",
+    "source": "Endpoint",
+    "description": "This is a generated alert for \"Phishing Email Reported by a.smith\". The system detected this event and requires investigation. The severity is high and the current status is open."
+  },
+  {
+    "id": "d07d210b-3165-403f-a2cd-83cabe062e3a",
+    "title": "Suspicious Outbound Connection from 10.0.5.23",
+    "severity": "critical",
+    "status": "investigating",
+    "createdAt": "2023-06-06T22:05:10.025Z",
+    "source": "Network",
+    "description": "This is a generated alert for \"Suspicious Outbound Connection from 10.0.5.23\". The system detected this event and requires investigation. The severity is critical and the current status is investigating."
+  },
+  {
+    "id": "8bce3029-457d-4431-80da-6a005e2abe62",
+    "title": "Unusual Login Activity Detected on Server AUTH-SRV-EU",
+    "severity": "medium",
+    "status": "investigating",
+    "createdAt": "2023-06-01T21:42:01.491Z",
+    "source": "Endpoint",
+    "description": "This is a generated alert for \"Unusual Login Activity Detected on Server AUTH-SRV-EU\". The system detected this event and requires investigation. The severity is medium and the current status is investigating."
+  },
+  {
+    "id": "da2480c7-b694-462e-84f9-e069520b2718",
+    "title": "Phishing Email Reported by s.williams",
+    "severity": "critical",
+    "status": "investigating",
+    "createdAt": "2023-05-29T23:11:28.127Z",
+    "source": "SIEM",
+    "description": "This is a generated alert for \"Phishing Email Reported by s.williams\". The system detected this event and requires investigation. The severity is critical and the current status is investigating."
+  },
+  {
+    "id": "43cce5de-8e54-4e8c-b024-c18142735d36",
+    "title": "Suspicious Outbound Connection from 192.168.1.101",
+    "severity": "medium",
+    "status": "resolved",
+    "createdAt": "2023-05-29T15:58:20.998Z",
+    "source": "Network",
+    "description": "This is a generated alert for \"Suspicious Outbound Connection from 192.168.1.101\". The system detected this event and requires investigation. The severity is medium and the current status is resolved."
+  },
+  {
+    "id": "0200ea5a-ebe9-4be3-ada2-5e408b417747",
+    "title": "Privilege Escalation Detected for user a.smith",
+    "severity": "high",
+    "status": "resolved",
+    "createdAt": "2023-05-20T11:18:05.627Z",
+    "source": "Network",
+    "description": "This is a generated alert for \"Privilege Escalation Detected for user a.smith\". The system detected this event and requires investigation. The severity is high and the current status is resolved."
+  },
+  {
+    "id": "f51558f7-6585-4609-a63d-0269519b5847",
+    "title": "Data Exfiltration Attempt Detected from Billing API",
+    "severity": "critical",
+    "status": "open",
+    "createdAt": "2023-05-20T08:28:50.683Z",
+    "source": "Network",
+    "description": "This is a generated alert for \"Data Exfiltration Attempt Detected from Billing API\". The system detected this event and requires investigation. The severity is critical and the current status is open."
+  },
+  {
+    "id": "c55418cf-4e17-47c1-898c-1c6c49193636",
+    "title": "Privilege Escalation Detected for user s.williams",
+    "severity": "low",
+    "status": "investigating",
+    "createdAt": "2023-05-19T04:35:41.539Z",
+    "source": "SIEM",
+    "description": "This is a generated alert for \"Privilege Escalation Detected for user s.williams\". The system detected this event and requires investigation. The severity is low and the current status is investigating."
+  },
+  {
+    "id": "0f06e4d2-67f0-4de4-93e5-bdf7be258e07",
+    "title": "Data Exfiltration Attempt Detected from Billing API",
+    "severity": "low",
+    "status": "resolved",
+    "createdAt": "2023-05-12T04:06:08.837Z",
+    "source": "SIEM",
+    "description": "This is a generated alert for \"Data Exfiltration Attempt Detected from Billing API\". The system detected this event and requires investigation. The severity is low and the current status is resolved."
+  },
+  {
+    "id": "a9b16890-15e5-4929-825d-e704abb01431",
+    "title": "Multiple Failed Authentication Attempts for m.jones",
+    "severity": "medium",
+    "status": "open",
+    "createdAt": "2023-05-10T06:00:38.317Z",
+    "source": "Network",
+    "description": "This is a generated alert for \"Multiple Failed Authentication Attempts for m.jones\". The system detected this event and requires investigation. The severity is medium and the current status is open."
+  },
+  {
+    "id": "bbad71bd-1bf6-4ee6-92ad-7bdfd24b147e",
+    "title": "High CPU Usage Anomaly on Order Processor",
+    "severity": "critical",
+    "status": "resolved",
+    "createdAt": "2023-05-02T02:14:53.998Z",
+    "source": "EDR",
+    "description": "This is a generated alert for \"High CPU Usage Anomaly on Order Processor\". The system detected this event and requires investigation. The severity is critical and the current status is resolved."
+  },
+  {
+    "id": "b44b5099-b1e3-43d5-98eb-26533178f726",
+    "title": "Phishing Email Reported by m.jones",
+    "severity": "high",
+    "status": "resolved",
+    "createdAt": "2023-04-05T19:28:21.255Z",
+    "source": "Network",
+    "description": "This is a generated alert for \"Phishing Email Reported by m.jones\". The system detected this event and requires investigation. The severity is high and the current status is resolved."
+  },
+  {
+    "id": "dfbea9cd-e135-4ee1-a172-e6428d2b2e9c",
+    "title": "Phishing Email Reported by m.jones",
+    "severity": "low",
+    "status": "open",
+    "createdAt": "2023-04-01T14:09:06.221Z",
+    "source": "SIEM",
+    "description": "This is a generated alert for \"Phishing Email Reported by m.jones\". The system detected this event and requires investigation. The severity is low and the current status is open."
+  },
+  {
+    "id": "c2532073-8b12-4d9f-aa33-7c9d69985223",
+    "title": "Ransomware Signature Detected on File Server",
+    "severity": "medium",
+    "status": "investigating",
+    "createdAt": "2023-04-01T04:11:06.654Z",
+    "source": "Network",
+    "description": "This is a generated alert for \"Ransomware Signature Detected on File Server\". The system detected this event and requires investigation. The severity is medium and the current status is investigating."
+  },
+  {
+    "id": "2e9875b3-bc3b-49d9-bc65-f9fd50329d0c",
+    "title": "Ransomware Signature Detected on File Server",
+    "severity": "high",
+    "status": "open",
+    "createdAt": "2023-03-26T08:02:08.278Z",
+    "source": "Cloud",
+    "description": "This is a generated alert for \"Ransomware Signature Detected on File Server\". The system detected this event and requires investigation. The severity is high and the current status is open."
+  },
+  {
+    "id": "3460be64-4617-4be2-bf49-1d1a99906b14",
+    "title": "Data Exfiltration Attempt Detected from Billing API",
+    "severity": "critical",
+    "status": "open",
+    "createdAt": "2023-03-07T14:57:50.605Z",
+    "source": "Endpoint",
+    "description": "This is a generated alert for \"Data Exfiltration Attempt Detected from Billing API\". The system detected this event and requires investigation. The severity is critical and the current status is open."
+  },
+  {
+    "id": "8cef3860-2150-4854-ba0e-a6d2ad2a5559",
+    "title": "Ransomware Signature Detected on File Server",
+    "severity": "high",
+    "status": "open",
+    "createdAt": "2023-02-26T02:43:46.475Z",
+    "source": "Network",
+    "description": "This is a generated alert for \"Ransomware Signature Detected on File Server\". The system detected this event and requires investigation. The severity is high and the current status is open."
+  },
+  {
+    "id": "91ddc449-9e45-48f8-a91d-80eb2beaec4f",
+    "title": "Data Exfiltration Attempt Detected from Order Processor",
+    "severity": "high",
+    "status": "open",
+    "createdAt": "2023-02-26T01:09:50.509Z",
+    "source": "Endpoint",
+    "description": "This is a generated alert for \"Data Exfiltration Attempt Detected from Order Processor\". The system detected this event and requires investigation. The severity is high and the current status is open."
+  },
+  {
+    "id": "ab9aadd1-ecb0-49b0-95f9-f0229a7b3e2f",
+    "title": "Potential Malware Infection on m.jones Workstation",
+    "severity": "low",
+    "status": "open",
+    "createdAt": "2023-02-18T23:49:17.132Z",
+    "source": "Network",
+    "description": "This is a generated alert for \"Potential Malware Infection on m.jones Workstation\". The system detected this event and requires investigation. The severity is low and the current status is open."
+  },
+  {
+    "id": "a5c56529-ee0e-438c-ba5c-d8b927933e26",
+    "title": "Suspicious Outbound Connection from 192.168.1.101",
+    "severity": "low",
+    "status": "investigating",
+    "createdAt": "2023-02-16T00:58:58.638Z",
+    "source": "EDR",
+    "description": "This is a generated alert for \"Suspicious Outbound Connection from 192.168.1.101\". The system detected this event and requires investigation. The severity is low and the current status is investigating."
+  },
+  {
+    "id": "ee9f8920-bc3f-4951-88a2-9ff69c6d9eda",
+    "title": "Unusual Login Activity Detected on Server AUTH-SRV-EU",
+    "severity": "critical",
+    "status": "open",
+    "createdAt": "2023-02-14T21:39:40.261Z",
+    "source": "SIEM",
+    "description": "This is a generated alert for \"Unusual Login Activity Detected on Server AUTH-SRV-EU\". The system detected this event and requires investigation. The severity is critical and the current status is open."
+  },
+  {
+    "id": "96b40875-0a5e-4eb5-b7a2-b0e18698b159",
+    "title": "High CPU Usage Anomaly on Order Processor",
+    "severity": "low",
+    "status": "open",
+    "createdAt": "2023-02-03T19:15:43.702Z",
+    "source": "Cloud",
+    "description": "This is a generated alert for \"High CPU Usage Anomaly on Order Processor\". The system detected this event and requires investigation. The severity is low and the current status is open."
+  },
+  {
+    "id": "c2aa59ab-86d8-4e1b-9bbb-d2c7ddee11cb",
+    "title": "Suspicious Outbound Connection from 172.16.31.5",
+    "severity": "medium",
+    "status": "resolved",
+    "createdAt": "2023-01-23T13:40:29.121Z",
+    "source": "SIEM",
+    "description": "This is a generated alert for \"Suspicious Outbound Connection from 172.16.31.5\". The system detected this event and requires investigation. The severity is medium and the current status is resolved."
+  },
+  {
+    "id": "1943d855-7470-4062-9b15-c3ffbe72e7f1",
+    "title": "High CPU Usage Anomaly on User Service",
+    "severity": "high",
+    "status": "resolved",
+    "createdAt": "2023-01-21T13:25:46.599Z",
+    "source": "Cloud",
+    "description": "This is a generated alert for \"High CPU Usage Anomaly on User Service\". The system detected this event and requires investigation. The severity is high and the current status is resolved."
+  },
+  {
+    "id": "97cf68aa-7ac9-40fb-b8e2-e6f8396650f6",
+    "title": "Data Exfiltration Attempt Detected from Billing API",
+    "severity": "medium",
+    "status": "resolved",
+    "createdAt": "2023-01-21T10:05:26.805Z",
+    "source": "SIEM",
+    "description": "This is a generated alert for \"Data Exfiltration Attempt Detected from Billing API\". The system detected this event and requires investigation. The severity is medium and the current status is resolved."
+  },
+  {
+    "id": "48abd48f-ac22-4a58-a008-d55ea09509dd",
+    "title": "Anomalous API Gateway Traffic from 172.16.31.5",
+    "severity": "medium",
+    "status": "investigating",
+    "createdAt": "2023-01-18T08:37:18.544Z",
+    "source": "SIEM",
+    "description": "This is a generated alert for \"Anomalous API Gateway Traffic from 172.16.31.5\". The system detected this event and requires investigation. The severity is medium and the current status is investigating."
+  },
+  {
+    "id": "ebdc9f6b-e8ce-4223-b638-5c37a45f5e6c",
+    "title": "High CPU Usage Anomaly on Billing API",
+    "severity": "critical",
+    "status": "resolved",
+    "createdAt": "2023-01-17T08:27:59.820Z",
+    "source": "Cloud",
+    "description": "This is a generated alert for \"High CPU Usage Anomaly on Billing API\". The system detected this event and requires investigation. The severity is critical and the current status is resolved."
+  },
+  {
+    "id": "98792b04-3f15-47b1-bf89-4b7d3b70050c",
+    "title": "Phishing Email Reported by s.williams",
+    "severity": "low",
+    "status": "resolved",
+    "createdAt": "2023-01-04T05:41:09.565Z",
+    "source": "Cloud",
+    "description": "This is a generated alert for \"Phishing Email Reported by s.williams\". The system detected this event and requires investigation. The severity is low and the current status is resolved."
+  }
+]
