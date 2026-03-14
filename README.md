@@ -8,9 +8,7 @@ A React-based web application for viewing and managing security alerts.
 - **Vite** for build tooling
 - **React Router v6** for client-side routing
 - **TanStack Query** for data fetching and caching
-- **Material UI (MUI)** for UI components
 - **Tailwind CSS** for utility-first styling
-- **Radix UI** for accessible primitives
 
 ## Getting Started
 
@@ -41,15 +39,15 @@ node generate-data.mjs
 
 ## Scripts
 
-| Command | Description |
-|---|---|
-| `npm run dev` | Start development server |
-| `npm run build` | Type-check and build for production |
-| `npm run preview` | Preview the production build |
-| `npm run test` | Run tests once |
-| `npm run test:watch` | Run tests in watch mode |
-| `npm run lint` | Lint source files |
-| `npm run format` | Format source files with Prettier |
+| Command              | Description                         |
+| -------------------- | ----------------------------------- |
+| `npm run dev`        | Start development server            |
+| `npm run build`      | Type-check and build for production |
+| `npm run preview`    | Preview the production build        |
+| `npm run test`       | Run tests once                      |
+| `npm run test:watch` | Run tests in watch mode             |
+| `npm run lint`       | Lint source files                   |
+| `npm run format`     | Format source files with Prettier   |
 
 ## Project Structure
 
