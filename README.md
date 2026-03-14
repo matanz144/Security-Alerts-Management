@@ -26,16 +26,10 @@ npm install
 ### Run the development server
 
 ```bash
-7
+npm run dev
 ```
 
 The app will be available at `http://localhost:5173`.
-
-### Generate mock data
-
-```bash
-node generate-data.mjs
-```
 
 ## Scripts
 

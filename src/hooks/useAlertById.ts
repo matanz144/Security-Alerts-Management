@@ -1,4 +1,4 @@
-import { useQuery } from '@tanstack/react-query'
+import { useQuery, skipToken } from '@tanstack/react-query'
 import { getAlertById } from '@/services/alertsService'
 
 /**
@@ -6,10 +6,9 @@ import { getAlertById } from '@/services/alertsService'
  * Returns `null` in `data` if no alert exists with the given ID.
  * The query is skipped entirely if `id` is an empty string.
  */
-export function useAlertById(id: string) {
+export function useAlertById(id: string | undefined) {
   return useQuery({
     queryKey: ['alert', id],
-    queryFn: () => getAlertById(id),
-    enabled: Boolean(id),
+    queryFn: id ? () => getAlertById(id) : skipToken,
   })
 }

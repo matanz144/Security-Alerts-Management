@@ -10,6 +10,8 @@ vi.mock('@/services/alertsService', () => ({
 
 import { getAlerts } from '@/services/alertsService'
 
+const originalCreateElement = document.createElement.bind(document)
+
 const BASE_QUERY: IAlertsQuery = {
   page: 1,
   pageSize: 10,
@@ -32,7 +34,9 @@ beforeEach(() => {
   vi.spyOn(URL, 'createObjectURL').mockReturnValue('blob:mock-url')
   vi.spyOn(URL, 'revokeObjectURL').mockReturnValue(undefined)
   const mockAnchor = { href: '', download: '', click: vi.fn() } as unknown as HTMLAnchorElement
-  vi.spyOn(document, 'createElement').mockReturnValue(mockAnchor)
+  vi.spyOn(document, 'createElement').mockImplementation((tag: string, ...args: unknown[]) =>
+    tag === 'a' ? mockAnchor : originalCreateElement(tag, ...(args as [ElementCreationOptions?]))
+  )
 })
 
 afterEach(() => {
@@ -70,8 +74,9 @@ describe('useExportCsv', () => {
 
     it('triggers a CSV download after fetching', async () => {
       const clickSpy = vi.fn()
-      vi.spyOn(document, 'createElement').mockReturnValue(
-        { href: '', download: '', click: clickSpy } as unknown as HTMLAnchorElement,
+      const mockAnchorWithSpy = { href: '', download: '', click: clickSpy } as unknown as HTMLAnchorElement
+      vi.spyOn(document, 'createElement').mockImplementation((tag: string, ...args: unknown[]) =>
+        tag === 'a' ? mockAnchorWithSpy : originalCreateElement(tag, ...(args as [ElementCreationOptions?]))
       )
       const { result } = renderHook(() => useExportCsv(BASE_QUERY, 4))
       await act(() => result.current.handleExportCsv())
